@@ -1,0 +1,2001 @@
+id,ltable_city_ascii,ltable_country,rtable_city_ascii,rtable_country,city_ascii_sim,country_sim,is_matching
+6253,Tokyo,Japan,Sokolov,Czechia,0.428571429,0.0,0
+4685,Guangzhou,China,Luanshya,Zambia,0.444444444,0.166666667,0
+1732,Jakarta,Indonesia,Catarama,Ecuador,0.5,0.0,0
+4743,Guangzhou,China,Gandu,Brazil,0.444444444,0.0,0
+4522,Jakarta,Indonesia,Girardota,Colombia,0.444444444,0.333333333,0
+6341,Jakarta,Indonesia,Taranto,Italy,0.428571429,0.111111111,0
+577,Dhaka,Bangladesh,Jhaua,India,0.6,0.2,0
+5203,Shanghai,China,Zhangping,China,0.444444444,1.0,0
+6364,Jakarta,Indonesia,Atbara,Sudan,0.428571429,0.222222222,0
+440,Tokyo,Japan,Takeo,Cambodia,0.6,0.125,0
+2751,Shanghai,China,Grantham,United Kingdom,0.5,0.142857143,0
+7488,Manila,Philippines,Slatina,Romania,0.428571429,0.090909091,0
+5273,Sao Paulo,Brazil,Palo,Philippines,0.444444444,0.090909091,0
+5654,Bangkok,Thailand,Cranbrook,Canada,0.444444444,0.25,0
+4000,Istanbul,Turkey,Isilkul,Russia,0.5,0.166666667,0
+6034,Bangalore,India,Magalang,Philippines,0.444444444,0.090909091,0
+583,Beijing,China,Teijlingen,Netherlands,0.6,0.181818182,0
+9931,Bangkok,Thailand,Mangidy,Madagascar,0.428571429,0.1,0
+7052,Jakarta,Indonesia,Baltara,India,0.428571429,0.555555556,0
+8159,Cairo,Egypt,Cabaret,Haiti,0.428571429,0.0,0
+9897,Bangkok,Thailand,Bakhor,Tajikistan,0.428571429,0.3,0
+2250,Manila,Philippines,Bani,Philippines,0.5,1.0,0
+4641,Guangzhou,China,Lubango,Angola,0.444444444,0.166666667,0
+9486,Kolkata,India,Konaje,India,0.428571429,1.0,0
+4948,Manila,Philippines,Manavadar,India,0.444444444,0.090909091,0
+9921,Bangkok,Thailand,Canton,United States,0.428571429,0.076923077,0
+1964,Mumbai,India,Emba,Kazakhstan,0.5,0.1,0
+8244,Cairo,Egypt,Corinto,Colombia,0.428571429,0.0,0
+6591,Jakarta,Indonesia,Laksar,India,0.428571429,0.555555556,0
+8848,Beijing,China,Benicia,United States,0.428571429,0.153846154,0
+322,Manila,Philippines,Mangalam,India,0.625,0.090909091,0
+2679,Shanghai,China,Sendai,Japan,0.5,0.0,0
+4626,Guangzhou,China,Leizhou,China,0.444444444,1.0,0
+4950,Manila,Philippines,Fandriana,Madagascar,0.444444444,0.0,0
+8329,Cairo,Egypt,Baisari,Bangladesh,0.428571429,0.1,0
+3338,Dhaka,Bangladesh,Sakaka,Saudi Arabia,0.5,0.083333333,0
+5590,Kolkata,India,Solikamsk,Russia,0.444444444,0.333333333,0
+252,Cairo,Egypt,Carros,France,0.666666667,0.0,0
+3974,Lagos,Nigeria,Langar,Tajikistan,0.5,0.2,0
+6631,Jakarta,Indonesia,Jhabua,India,0.428571429,0.555555556,0
+5548,Beijing,China,Renningen,Germany,0.444444444,0.142857143,0
+36,Manila,Philippines,Manisa,Turkey,0.833333333,0.090909091,0
+8363,Cairo,Egypt,Taviano,Italy,0.428571429,0.0,0
+1514,Guangzhou,China,Huangzhuang,China,0.545454545,1.0,0
+9318,Kolkata,India,Konan,Japan,0.428571429,0.0,0
+40,Manila,Philippines,Manily,Russia,0.833333333,0.090909091,0
+4820,Guangzhou,China,Gounarou,Benin,0.444444444,0.2,0
+3466,Dhaka,Bangladesh,Chadan,Russia,0.5,0.1,0
+1761,Delhi,India,Djelfa,Algeria,0.5,0.285714286,0
+2305,Manila,Philippines,Marion,United States,0.5,0.230769231,0
+3724,Shenzhen,China,Sanchez,Dominican Republic,0.5,0.166666667,0
+8285,Cairo,Egypt,Coueron,France,0.428571429,0.0,0
+4994,Manila,Philippines,Panukulan,Philippines,0.444444444,1.0,0
+8128,Cairo,Egypt,Chaedok,North Korea,0.428571429,0.0,0
+3033,Sao Paulo,Brazil,San Marcos,Colombia,0.5,0.125,0
+7939,Manila,Philippines,Laligam,India,0.428571429,0.090909091,0
+3040,Sao Paulo,Brazil,San Marcos,Nicaragua,0.5,0.222222222,0
+9656,Bangkok,Thailand,Baku,Azerbaijan,0.428571429,0.3,0
+2546,Manila,Philippines,Matino,Italy,0.5,0.090909091,0
+2593,Manila,Philippines,Banga,Angola,0.5,0.0,0
+1189,Karachi,Pakistan,Karukh,Afghanistan,0.571428571,0.545454545,0
+7967,Manila,Philippines,Janglot,India,0.428571429,0.090909091,0
+6078,Bangalore,India,Mannar,Sri Lanka,0.444444444,0.111111111,0
+108,Bangkok,Thailand,Pangkou,China,0.714285714,0.375,0
+1316,Guangzhou,China,Ganguru,India,0.555555556,0.2,0
+8188,Cairo,Egypt,Kairana,India,0.428571429,0.0,0
+2754,Shanghai,China,Singia,India,0.5,0.2,0
+9754,Bangkok,Thailand,Pando,Uruguay,0.428571429,0.125,0
+6232,Tokyo,Japan,Temoaya,Mexico,0.428571429,0.0,0
+2877,Shanghai,China,Banga,India,0.5,0.2,0
+5324,Sao Paulo,Brazil,Rajauli,India,0.444444444,0.166666667,0
+800,Manila,Philippines,Manresa,Spain,0.571428571,0.272727273,0
+3571,Kolkata,India,Karratha,Australia,0.5,0.222222222,0
+2895,Shanghai,China,Shamgarh,India,0.5,0.2,0
+2928,Shanghai,China,Bhagta,India,0.5,0.2,0
+8179,Cairo,Egypt,Nyamira,Kenya,0.428571429,0.0,0
+972,Beijing,China,Bijni,India,0.571428571,0.2,0
+6688,Jakarta,Indonesia,Marar,India,0.428571429,0.555555556,0
+8576,Dhaka,Bangladesh,Chhapia,India,0.428571429,0.2,0
+2021,Mumbai,India,Gamba,Gabon,0.5,0.0,0
+9055,Kolkata,India,Galati,Romania,0.428571429,0.285714286,0
+953,Beijing,China,Wenping,China,0.571428571,1.0,0
+5360,Sao Paulo,Brazil,Skoghall,Sweden,0.444444444,0.0,0
+3858,Moscow,Russia,Wolow,Poland,0.5,0.0,0
+5862,Karachi,Pakistan,Kharagpur,India,0.444444444,0.25,0
+3146,Cairo,Egypt,Carlow,Ireland,0.5,0.0,0
+3306,New York,United States,New Square,United States,0.5,1.0,0
+3007,Shanghai,China,Schaafheim,Germany,0.5,0.142857143,0
+9002,Beijing,China,Beibu,Taiwan,0.428571429,0.333333333,0
+7771,Manila,Philippines,Manganj,India,0.428571429,0.090909091,0
+7439,Manila,Philippines,Salinas,United States,0.428571429,0.230769231,0
+7943,Manila,Philippines,Charala,Colombia,0.428571429,0.181818182,0
+9239,Kolkata,India,Kosai,Japan,0.428571429,0.0,0
+1057,Bangkok,Thailand,Mangrol,India,0.571428571,0.25,0
+3155,Cairo,Egypt,Vailoa,Samoa,0.5,0.0,0
+3788,Moscow,Russia,Hounslow,United Kingdom,0.5,0.071428571,0
+9190,Kolkata,India,Kalaki,Uganda,0.428571429,0.333333333,0
+7826,Manila,Philippines,Swansea,United States,0.428571429,0.230769231,0
+7540,Manila,Philippines,Pesnica,Slovenia,0.428571429,0.181818182,0
+7232,Delhi,India,Deokali,India,0.428571429,1.0,0
+765,Manila,Philippines,Managua,Nicaragua,0.571428571,0.090909091,0
+5020,Manila,Philippines,Siniscola,Italy,0.444444444,0.090909091,0
+4904,Manila,Philippines,Marabella,Trinidad and Tobago,0.444444444,0.157894737,0
+8094,Cairo,Egypt,Taizhou,China,0.428571429,0.0,0
+6844,Jakarta,Indonesia,Chaita,India,0.428571429,0.555555556,0
+2166,Manila,Philippines,Muna,Mexico,0.5,0.090909091,0
+1863,Mumbai,India,Multi,India,0.5,1.0,0
+7851,Manila,Philippines,Hardiya,India,0.428571429,0.090909091,0
+9124,Kolkata,India,Jelgava,Latvia,0.428571429,0.333333333,0
+2341,Manila,Philippines,Mabini,Philippines,0.5,1.0,0
+5528,Beijing,China,Kettering,United Kingdom,0.444444444,0.142857143,0
+6744,Jakarta,Indonesia,Tabira,Brazil,0.428571429,0.111111111,0
+4004,Istanbul,Turkey,Issaba,Benin,0.5,0.0,0
+1124,Karachi,Pakistan,Karaman,Turkey,0.571428571,0.0,0
+8710,Beijing,China,Regina,Canada,0.428571429,0.333333333,0
+4050,Karachi,Pakistan,Amgachia,India,0.5,0.25,0
+7641,Manila,Philippines,Guariba,Brazil,0.428571429,0.090909091,0
+766,Manila,Philippines,Patiala,India,0.571428571,0.090909091,0
+2345,Manila,Philippines,Taiwa,Japan,0.5,0.181818182,0
+4072,Karachi,Pakistan,Rahachow,Belarus,0.5,0.0,0
+7217,Delhi,India,Beloeil,Belgium,0.428571429,0.142857143,0
+4217,Shenzhen,China,Schwabmunchen,Germany,0.461538462,0.142857143,0
+7953,Manila,Philippines,Hardiya,India,0.428571429,0.090909091,0
+5971,Bangalore,India,Tangier,Morocco,0.444444444,0.0,0
+3351,Dhaka,Bangladesh,Shiraoka,Japan,0.5,0.2,0
+4696,Guangzhou,China,Durango,Spain,0.444444444,0.2,0
+3400,Dhaka,Bangladesh,Dhariwal,India,0.5,0.2,0
+4082,Karachi,Pakistan,Carauari,Brazil,0.5,0.125,0
+9150,Kolkata,India,Lomita,United States,0.428571429,0.230769231,0
+1225,Karachi,Pakistan,Barhi,India,0.571428571,0.25,0
+6293,Jakarta,Indonesia,Sakai,Japan,0.428571429,0.111111111,0
+3123,Cairo,Egypt,Cuango,Angola,0.5,0.166666667,0
+511,Cairo,Egypt,Taito,Japan,0.6,0.0,0
+5795,Istanbul,Turkey,Ulaan-Uul,Mongolia,0.444444444,0.0,0
+8182,Cairo,Egypt,Chitose,Japan,0.428571429,0.0,0
+9418,Kolkata,India,Kabala,Sierra Leone,0.428571429,0.083333333,0
+97,Beijing,China,Beigang,Taiwan,0.714285714,0.333333333,0
+6682,Jakarta,Indonesia,Fagaras,Romania,0.428571429,0.333333333,0
+1513,Jakarta,Indonesia,Jaguaretama,Brazil,0.545454545,0.111111111,0
+8792,Beijing,China,Bayji,Iraq,0.428571429,0.0,0
+120,Karachi,Pakistan,Kaguchi,India,0.714285714,0.25,0
+7792,Manila,Philippines,Madison,United States,0.428571429,0.230769231,0
+6518,Jakarta,Indonesia,Mobara,Japan,0.428571429,0.111111111,0
+34,Manila,Philippines,Manilva,Spain,0.857142857,0.272727273,0
+7888,Manila,Philippines,Moncion,Dominican Republic,0.428571429,0.166666667,0
+6831,Jakarta,Indonesia,Fara,Burkina Faso,0.428571429,0.166666667,0
+5422,Cairo,Egypt,Castillos,Uruguay,0.444444444,0.142857143,0
+1069,Bangkok,Thailand,Bungku,Indonesia,0.571428571,0.0,0
+1348,Shanghai,China,Jiangshan,China,0.555555556,1.0,0
+4748,Guangzhou,China,Guamo,Colombia,0.444444444,0.25,0
+6006,Bangalore,India,Panabo,Philippines,0.444444444,0.090909091,0
+6040,Bangalore,India,Barcelos,Portugal,0.444444444,0.125,0
+3818,Moscow,Russia,Bosconia,Colombia,0.5,0.25,0
+8447,Dhaka,Bangladesh,Duitama,Colombia,0.428571429,0.1,0
+5270,Sao Paulo,Brazil,Sao Roque,Brazil,0.444444444,1.0,0
+6898,Jakarta,Indonesia,Serta,Portugal,0.428571429,0.111111111,0
+5310,Sao Paulo,Brazil,Santiago,Philippines,0.444444444,0.090909091,0
+32,Bangalore,India,Bangalore,India,1.0,1.0,1
+5675,Bangkok,Thailand,Yangiobod,Uzbekistan,0.444444444,0.2,0
+4387,Mexico City,Mexico,Orange City,United States,0.454545455,0.076923077,0
+30,Istanbul,Turkey,Istanbul,Turkey,1.0,1.0,1
+4203,Mexico City,Mexico,Missouri City,United States,0.461538462,0.076923077,0
+7508,Manila,Philippines,Tapalpa,Mexico,0.428571429,0.090909091,0
+736,Jakarta,Indonesia,Pararia,India,0.571428571,0.555555556,0
+2068,Manila,Philippines,Maraba,Brazil,0.5,0.090909091,0
+107,Bangkok,Thailand,Bangaon,India,0.714285714,0.25,0
+9645,Bangkok,Thailand,Ganzhou,China,0.428571429,0.375,0
+8895,Beijing,China,Xinying,China,0.428571429,1.0,0
+8021,Seoul,South Korea,Seaford,United States,0.428571429,0.230769231,0
+2233,Manila,Philippines,Kavala,Greece,0.5,0.090909091,0
+994,Kolkata,India,Kolomna,Russia,0.571428571,0.333333333,0
+9413,Kolkata,India,Pokaran,India,0.428571429,1.0,0
+7059,Jakarta,Indonesia,Ramacca,Italy,0.428571429,0.111111111,0
+6790,Jakarta,Indonesia,Nakur,India,0.428571429,0.555555556,0
+361,Shanghai,China,Nanzhai,China,0.625,1.0,0
+305,Manila,Philippines,Mangalam,India,0.625,0.090909091,0
+2628,Manila,Philippines,Lanivo,Madagascar,0.5,0.0,0
+8966,Beijing,China,Feyzin,France,0.428571429,0.166666667,0
+4514,Jakarta,Indonesia,Malapatan,Philippines,0.444444444,0.090909091,0
+5911,Karachi,Pakistan,Harohalli,India,0.444444444,0.25,0
+8314,Cairo,Egypt,Saviano,Italy,0.428571429,0.0,0
+3101,Mexico City,Mexico,Leisure City,United States,0.5,0.076923077,0
+5704,Shenzhen,China,Sherghati,India,0.444444444,0.2,0
+3899,Lagos,Nigeria,Patnos,Turkey,0.5,0.0,0
+5441,Cairo,Egypt,Huanimaro,Mexico,0.444444444,0.0,0
+7931,Manila,Philippines,Tafalla,Spain,0.428571429,0.272727273,0
+622,Lagos,Nigeria,Davos,Switzerland,0.6,0.363636364,0
+7236,Delhi,India,Felling,United Kingdom,0.428571429,0.214285714,0
+2499,Manila,Philippines,Lanuza,Philippines,0.5,1.0,0
+714,Jakarta,Indonesia,Macara,Ecuador,0.571428571,0.0,0
+8404,Cairo,Egypt,Pandino,Italy,0.428571429,0.0,0
+2856,Shanghai,China,Sheohar,India,0.5,0.2,0
+4270,Shanghai,China,Zhangjiakou,China,0.454545455,1.0,0
+2909,Shanghai,China,Manthani,India,0.5,0.2,0
+8081,Seoul,South Korea,Prelouc,Czechia,0.428571429,0.181818182,0
+4517,Jakarta,Indonesia,Nagcarlan,Philippines,0.444444444,0.090909091,0
+1262,Guangzhou,China,Chenzhou,China,0.555555556,1.0,0
+3161,Cairo,Egypt,Cuilco,Guatemala,0.5,0.0,0
+971,Beijing,China,Bilina,Czechia,0.571428571,0.428571429,0
+3913,Lagos,Nigeria,Loango,Congo (Brazzaville),0.5,0.157894737,0
+5199,Shanghai,China,Thap Than,Thailand,0.444444444,0.375,0
+8847,Beijing,China,Haiyang,China,0.428571429,1.0,0
+260,Dhaka,Bangladesh,Dwarka,India,0.666666667,0.2,0
+3791,Moscow,Russia,Boston,United Kingdom,0.5,0.071428571,0
+9203,Kolkata,India,Calaca,Philippines,0.428571429,0.090909091,0
+488,Shanghai,China,Chiang Rai,Thailand,0.6,0.375,0
+7908,Manila,Philippines,Oravita,Romania,0.428571429,0.090909091,0
+519,Cairo,Egypt,Charo,Mexico,0.6,0.0,0
+8343,Cairo,Egypt,Lariano,Italy,0.428571429,0.0,0
+312,Manila,Philippines,Marialva,Brazil,0.625,0.090909091,0
+3232,Cairo,Egypt,Chiari,Italy,0.5,0.0,0
+7933,Manila,Philippines,Lavinia,Brazil,0.428571429,0.090909091,0
+7458,Manila,Philippines,Candaba,Philippines,0.428571429,1.0,0
+9784,Bangkok,Thailand,Wangjia,China,0.428571429,0.375,0
+5184,Shanghai,China,Kharahara,India,0.444444444,0.2,0
+8077,Seoul,South Korea,Deokali,India,0.428571429,0.090909091,0
+6502,Jakarta,Indonesia,Samamea,Samoa,0.428571429,0.222222222,0
+6791,Jakarta,Indonesia,Qatana,Syria,0.428571429,0.222222222,0
+7773,Manila,Philippines,Ipanema,Brazil,0.428571429,0.090909091,0
+2738,Shanghai,China,Jeonghae,South Korea,0.5,0.181818182,0
+7842,Manila,Philippines,Llanera,Spain,0.428571429,0.272727273,0
+6262,Tokyo,Japan,Taiyong,China,0.428571429,0.0,0
+8206,Cairo,Egypt,Canlaon,Philippines,0.428571429,0.090909091,0
+1248,Karachi,Pakistan,Klyuchi,Russia,0.571428571,0.25,0
+9336,Kolkata,India,Bo`ka,Uzbekistan,0.428571429,0.2,0
+4195,Sao Paulo,Brazil,Santo Augusto,Brazil,0.461538462,1.0,0
+8001,Sao Paulo,Brazil,Senador Canedo,Brazil,0.428571429,1.0,0
+7378,Mumbai,India,Muhembo,Botswana,0.428571429,0.125,0
+3435,Dhaka,Bangladesh,Dhanaura,India,0.5,0.2,0
+5382,Sao Paulo,Brazil,Soyaux,France,0.444444444,0.333333333,0
+959,Beijing,China,Biwong,Cameroon,0.571428571,0.125,0
+417,Istanbul,Turkey,Isabel,Philippines,0.625,0.090909091,0
+5742,Moscow,Russia,Cookstown,United Kingdom,0.444444444,0.071428571,0
+6728,Jakarta,Indonesia,Ubata,Brazil,0.428571429,0.111111111,0
+4382,Mexico City,Mexico,Bay City,United States,0.454545455,0.076923077,0
+5197,Shanghai,China,Schlangen,Germany,0.444444444,0.142857143,0
+1113,Karachi,Pakistan,Karaj,Iran,0.571428571,0.25,0
+2689,Shanghai,China,Songzi,China,0.5,1.0,0
+6473,Jakarta,Indonesia,Naranja,United States,0.428571429,0.153846154,0
+8820,Beijing,China,Feijo,Brazil,0.428571429,0.0,0
+7808,Manila,Philippines,Mottola,Italy,0.428571429,0.090909091,0
+3411,Dhaka,Bangladesh,Chaita,India,0.5,0.2,0
+81,Jakarta,Indonesia,Jakar,Bhutan,0.714285714,0.0,0
+4614,Guangzhou,China,Meizhou,China,0.444444444,1.0,0
+1374,Sao Paulo,Brazil,Pago Pago,American Samoa,0.555555556,0.142857143,0
+1510,Bangalore,India,Sanare,Venezuela,0.555555556,0.222222222,0
+6443,Jakarta,Indonesia,Bazarak,Afghanistan,0.428571429,0.272727273,0
+3071,Seoul,South Korea,Selcuk,Turkey,0.5,0.181818182,0
+3016,Shanghai,China,Ingham,Australia,0.5,0.111111111,0
+4823,Guangzhou,China,Luanco,Spain,0.444444444,0.2,0
+7822,Manila,Philippines,Majholi,India,0.428571429,0.090909091,0
+93,Manila,Philippines,Manaira,Brazil,0.714285714,0.090909091,0
+9421,Kolkata,India,Colonia,United States,0.428571429,0.230769231,0
+6600,Jakarta,Indonesia,Sanare,Venezuela,0.428571429,0.222222222,0
+4443,Shenzhen,China,Hohenhameln,Germany,0.454545455,0.142857143,0
+7602,Manila,Philippines,Muhanga,Rwanda,0.428571429,0.090909091,0
+3835,Moscow,Russia,Moorestown,United States,0.5,0.076923077,0
+9702,Bangkok,Thailand,Cuango,Angola,0.428571429,0.25,0
+4322,Sao Paulo,Brazil,San Joaquin,Philippines,0.454545455,0.090909091,0
+3394,Dhaka,Bangladesh,Budaka,Uganda,0.5,0.2,0
+4752,Guangzhou,China,Gaggenau,Germany,0.444444444,0.142857143,0
+7229,Delhi,India,De Witt,United States,0.428571429,0.230769231,0
+9191,Kolkata,India,Boorama,Somalia,0.428571429,0.285714286,0
+2361,Manila,Philippines,Medina,United States,0.5,0.230769231,0
+1148,Karachi,Pakistan,Paracin,Serbia,0.571428571,0.125,0
+5666,Bangkok,Thailand,Nanticoke,United States,0.444444444,0.076923077,0
+8075,Seoul,South Korea,Sevilla,Philippines,0.428571429,0.090909091,0
+4943,Manila,Philippines,Carangola,Brazil,0.444444444,0.090909091,0
+3663,Shenzhen,China,Suncheon,South Korea,0.5,0.181818182,0
+1563,Mexico City,Mexico,Pell City,United States,0.545454545,0.076923077,0
+4113,Karachi,Pakistan,Barahari,India,0.5,0.25,0
+9050,Kolkata,India,Vologda,Russia,0.428571429,0.333333333,0
+9276,Kolkata,India,Mombaca,Brazil,0.428571429,0.166666667,0
+8538,Dhaka,Bangladesh,Charata,Argentina,0.428571429,0.1,0
+795,Manila,Philippines,Manteca,United States,0.571428571,0.230769231,0
+5854,Karachi,Pakistan,Faratsiho,Madagascar,0.444444444,0.3,0
+7619,Manila,Philippines,Mastaga,Azerbaijan,0.428571429,0.090909091,0
+1594,Tokyo,Japan,Toledo,United States,0.5,0.076923077,0
+7418,Manila,Philippines,Lansing,United States,0.428571429,0.230769231,0
+5267,Sao Paulo,Brazil,La Palma,Panama,0.444444444,0.0,0
+7147,Jakarta,Indonesia,Nauta,Peru,0.428571429,0.111111111,0
+89,Manila,Philippines,Manapla,Philippines,0.714285714,1.0,0
+8695,Beijing,China,Hailin,China,0.428571429,1.0,0
+9732,Bangkok,Thailand,Mungo,Angola,0.428571429,0.25,0
+9446,Kolkata,India,Kauhava,Finland,0.428571429,0.142857143,0
+6754,Jakarta,Indonesia,Salaga,Ghana,0.428571429,0.222222222,0
+3502,Beijing,China,Beringen,Belgium,0.5,0.142857143,0
+2234,Manila,Philippines,Bansalan,Philippines,0.5,1.0,0
+2803,Shanghai,China,Xanthi,Greece,0.5,0.0,0
+4424,Bangkok,Thailand,Danjiangkou,China,0.454545455,0.375,0
+5663,Bangkok,Thailand,Balingoan,Philippines,0.444444444,0.272727273,0
+7170,Delhi,India,Nalchik,Russia,0.428571429,0.333333333,0
+8337,Cairo,Egypt,Mahinog,Philippines,0.428571429,0.090909091,0
+2148,Manila,Philippines,Kanie,Japan,0.5,0.181818182,0
+7969,Manila,Philippines,Nunihat,India,0.428571429,0.090909091,0
+6551,Jakarta,Indonesia,Camaqua,Brazil,0.428571429,0.111111111,0
+7643,Manila,Philippines,Gampola,Sri Lanka,0.428571429,0.181818182,0
+6164,Bangalore,India,Kangbao,China,0.444444444,0.2,0
+1495,Bangalore,India,Vandalur,India,0.555555556,1.0,0
+7696,Manila,Philippines,Ganjing,China,0.428571429,0.272727273,0
+7094,Jakarta,Indonesia,Bamora,India,0.428571429,0.555555556,0
+1409,Beijing,China,Balimbing,Philippines,0.555555556,0.272727273,0
+6691,Jakarta,Indonesia,Rasra,India,0.428571429,0.555555556,0
+3401,Dhaka,Bangladesh,Dbarwa,Eritrea,0.5,0.1,0
+109,Bangkok,Thailand,Bangor,United States,0.714285714,0.076923077,0
+5636,Bangkok,Thailand,Bunkyo-ku,Japan,0.444444444,0.375,0
+8482,Dhaka,Bangladesh,Xghajra,Malta,0.428571429,0.2,0
+6604,Jakarta,Indonesia,Okaya,Japan,0.428571429,0.111111111,0
+1091,Bangkok,Thailand,Banino,Poland,0.571428571,0.5,0
+5560,Beijing,China,Bee Ridge,United States,0.444444444,0.153846154,0
+9412,Kolkata,India,Mohana,India,0.428571429,1.0,0
+8143,Cairo,Egypt,Itabira,Brazil,0.428571429,0.0,0
+8664,Beijing,China,Jilin,China,0.428571429,1.0,0
+6596,Jakarta,Indonesia,Parasia,India,0.428571429,0.555555556,0
+624,Lagos,Nigeria,Lagbe,Benin,0.6,0.285714286,0
+6871,Jakarta,Indonesia,Bakouma,Central African Republic,0.428571429,0.166666667,0
+4814,Guangzhou,China,Bhangha,India,0.444444444,0.2,0
+6553,Jakarta,Indonesia,Zamora,Spain,0.428571429,0.111111111,0
+7530,Manila,Philippines,Santana,Sao Tome and Principe,0.428571429,0.095238095,0
+5796,Istanbul,Turkey,Saranpaul,Russia,0.444444444,0.166666667,0
+7437,Manila,Philippines,Mandi Burewala,Pakistan,0.428571429,0.272727273,0
+4218,Buenos Aires,Argentina,Puerto Cortes,Honduras,0.461538462,0.111111111,0
+5941,Karachi,Pakistan,Kukrahill,Nicaragua,0.444444444,0.111111111,0
+8501,Dhaka,Bangladesh,Chikuma,Japan,0.428571429,0.2,0
+6429,Jakarta,Indonesia,Barda,Azerbaijan,0.428571429,0.1,0
+6827,Jakarta,Indonesia,Pacatu,Brazil,0.428571429,0.111111111,0
+4131,Karachi,Pakistan,Kadrabad,India,0.5,0.25,0
+7802,Manila,Philippines,Gangoli,India,0.428571429,0.090909091,0
+7754,Manila,Philippines,Mazinde,Tanzania,0.428571429,0.090909091,0
+4722,Guangzhou,China,Huaishu,China,0.444444444,1.0,0
+1651,Jakarta,Indonesia,Baia Farta,Angola,0.5,0.333333333,0
+4141,Karachi,Pakistan,Kongaralli,India,0.5,0.25,0
+1618,Tokyo,Japan,Pokrov,Ukraine,0.5,0.285714286,0
+2030,Manila,Philippines,Milan,Italy,0.5,0.090909091,0
+8518,Dhaka,Bangladesh,Chambas,Cuba,0.428571429,0.1,0
+4576,Jakarta,Indonesia,Jadupatti,India,0.444444444,0.555555556,0
+3993,Istanbul,Turkey,Itaqui,Brazil,0.5,0.0,0
+7377,Mumbai,India,Zambezi,Zambia,0.428571429,0.333333333,0
+6150,Bangalore,India,Bugallon,Philippines,0.444444444,0.090909091,0
+4909,Manila,Philippines,Mariehamn,Finland,0.444444444,0.181818182,0
+5027,Manila,Philippines,Marolinta,Madagascar,0.444444444,0.0,0
+8261,Cairo,Egypt,Madison,United States,0.428571429,0.076923077,0
+4732,Guangzhou,China,Garango,Burkina Faso,0.444444444,0.25,0
+7549,Manila,Philippines,Harihar,India,0.428571429,0.090909091,0
+8135,Cairo,Egypt,Raigarh,India,0.428571429,0.0,0
+1607,Tokyo,Japan,Sokcho,South Korea,0.5,0.0,0
+4774,Guangzhou,China,Manghit,Uzbekistan,0.444444444,0.2,0
+8110,Cairo,Egypt,Calicut,India,0.428571429,0.0,0
+6952,Jakarta,Indonesia,Quata,Brazil,0.428571429,0.111111111,0
+6005,Bangalore,India,Babylon,United States,0.444444444,0.230769231,0
+7729,Manila,Philippines,Huautla,Mexico,0.428571429,0.090909091,0
+3542,Kolkata,India,Bolgatanga,Ghana,0.5,0.2,0
+389,Beijing,China,Zhijiang,China,0.625,1.0,0
+1795,Delhi,India,Den Chai,Thailand,0.5,0.25,0
+8732,Beijing,China,Beja,Tunisia,0.428571429,0.285714286,0
+4920,Manila,Philippines,Myaungmya,Myanmar,0.444444444,0.0,0
+5538,Beijing,China,Balindong,Philippines,0.444444444,0.272727273,0
+3873,Buenos Aires,Argentina,Del Aire,United States,0.5,0.153846154,0
+8869,Beijing,China,Denain,France,0.428571429,0.166666667,0
+2255,Manila,Philippines,Menggala,Indonesia,0.5,0.090909091,0
+3413,Dhaka,Bangladesh,Khokha,India,0.5,0.2,0
+5460,Cairo,Egypt,Cordeiros,Brazil,0.444444444,0.0,0
+4956,Manila,Philippines,Mankachar,India,0.444444444,0.090909091,0
+7397,Manila,Philippines,Cankaya,Turkey,0.428571429,0.090909091,0
+5415,Cairo,Egypt,Cabo Frio,Brazil,0.444444444,0.0,0
+7400,Manila,Philippines,Cabinda,Angola,0.428571429,0.0,0
+7415,Manila,Philippines,Palmira,Colombia,0.428571429,0.181818182,0
+9101,Kolkata,India,Komatsu,Japan,0.428571429,0.0,0
+4852,Mumbai,India,Dumbarton,United Kingdom,0.444444444,0.214285714,0
+2026,Manila,Philippines,Brasilia,Brazil,0.5,0.090909091,0
+2616,Manila,Philippines,Tadla,Morocco,0.5,0.0,0
+7389,Manila,Philippines,Goiania,Brazil,0.428571429,0.090909091,0
+2927,Shanghai,China,Dianga,China,0.5,1.0,0
+1122,Karachi,Pakistan,Qarshi,Uzbekistan,0.571428571,0.6,0
+2911,Shanghai,China,Kiangan,Philippines,0.5,0.272727273,0
+8147,Cairo,Egypt,Daoukro,CÃ´te d'Ivoire,0.428571429,0.0,0
+7384,Manila,Philippines,Nanping,China,0.428571429,0.272727273,0
+3483,Beijing,China,Linjiang,China,0.5,1.0,0
+796,Manila,Philippines,Katiola,CÃ´te d'Ivoire,0.571428571,0.076923077,0
+1576,New York,United States,New Milford,United States,0.545454545,1.0,0
+6177,Bangalore,India,Binalonan,Philippines,0.444444444,0.090909091,0
+6267,Tokyo,Japan,Tortoli,Italy,0.428571429,0.0,0
+2459,Manila,Philippines,Jadia,India,0.5,0.090909091,0
+3313,New York,United States,New London,United States,0.5,1.0,0
+1254,Jakarta,Indonesia,Jaguaruna,Brazil,0.555555556,0.111111111,0
+6835,Jakarta,Indonesia,Malaga,Colombia,0.428571429,0.333333333,0
+8795,Beijing,China,Bambang,Philippines,0.428571429,0.272727273,0
+3838,Moscow,Russia,Monroe,United States,0.5,0.076923077,0
+4399,Cairo,Egypt,Caltagirone,Italy,0.454545455,0.0,0
+3596,Kolkata,India,Kovilpatti,India,0.5,1.0,0
+6622,Jakarta,Indonesia,Macenta,Guinea,0.428571429,0.333333333,0
+8383,Cairo,Egypt,Manaira,Brazil,0.428571429,0.0,0
+2125,Manila,Philippines,Masaka,Uganda,0.5,0.090909091,0
+3239,Cairo,Egypt,Fairwood,United States,0.5,0.076923077,0
+5404,Sao Paulo,Brazil,Sarasambo,Madagascar,0.444444444,0.1,0
+5999,Bangalore,India,Banikoara,Benin,0.444444444,0.2,0
+5939,Karachi,Pakistan,Sekimachi,Japan,0.444444444,0.375,0
+2046,Manila,Philippines,Macapa,Brazil,0.5,0.090909091,0
+1579,Bangkok,Thailand,Basingstoke,United Kingdom,0.545454545,0.142857143,0
+15,Dhaka,Bangladesh,Dhaka,Bangladesh,1.0,1.0,1
+2674,Shanghai,China,Zhangye,China,0.5,1.0,0
+7017,Jakarta,Indonesia,Matmata,Morocco,0.428571429,0.111111111,0
+8721,Beijing,China,Jijiga,Ethiopia,0.428571429,0.375,0
+8850,Beijing,China,Bubong,Philippines,0.428571429,0.272727273,0
+4813,Guangzhou,China,Gbanhi,Benin,0.444444444,0.2,0
+1085,Bangkok,Thailand,Ranko,India,0.571428571,0.25,0
+4984,Manila,Philippines,Maranello,Italy,0.444444444,0.090909091,0
+7156,Jakarta,Indonesia,Kouarfa,Benin,0.428571429,0.222222222,0
+2885,Shanghai,China,Sakai,Japan,0.5,0.0,0
+334,Shanghai,China,Chang'an,China,0.625,1.0,0
+7205,Delhi,India,Dorohoi,Romania,0.428571429,0.285714286,0
+4368,Mexico City,Mexico,Dale City,United States,0.454545455,0.076923077,0
+3080,Seoul,South Korea,Beroun,Czechia,0.5,0.181818182,0
+7204,Delhi,India,Kulachi,Pakistan,0.428571429,0.25,0
+9910,Bangkok,Thailand,Baykan,Turkey,0.428571429,0.125,0
+8865,Beijing,China,Moirang,India,0.428571429,0.2,0
+264,Dhaka,Bangladesh,Bhakua,India,0.666666667,0.2,0
+4338,Sao Paulo,Brazil,San Anselmo,United States,0.454545455,0.076923077,0
+8896,Beijing,China,Leini,Italy,0.428571429,0.0,0
+8448,Dhaka,Bangladesh,Niihama,Japan,0.428571429,0.2,0
+5904,Karachi,Pakistan,Tehachapi,United States,0.444444444,0.153846154,0
+1499,Bangalore,India,Baggao,Philippines,0.555555556,0.090909091,0
+4191,Sao Paulo,Brazil,Sao Sebastiao,Brazil,0.461538462,1.0,0
+7486,Manila,Philippines,Kashiba,Japan,0.428571429,0.181818182,0
+9644,Bangkok,Thailand,Lagos,Nigeria,0.428571429,0.0,0
+8311,Cairo,Egypt,Madison,United States,0.428571429,0.076923077,0
+7591,Manila,Philippines,Mangrol,India,0.428571429,0.090909091,0
+501,Sao Paulo,Brazil,Frei Paulo,Brazil,0.6,1.0,0
+9156,Kolkata,India,Solaro,Italy,0.428571429,0.2,0
+9415,Kolkata,India,Khokha,India,0.428571429,1.0,0
+3096,Mexico City,Mexico,Manukau City,New Zealand,0.5,0.090909091,0
+4632,Guangzhou,China,Xiangshui,China,0.444444444,1.0,0
+368,Shanghai,China,Sangam,India,0.625,0.2,0
+4059,Karachi,Pakistan,Naugachhia,India,0.5,0.25,0
+8175,Cairo,Egypt,Naifaru,Maldives,0.428571429,0.0,0
+4631,Guangzhou,China,Can Tho,Vietnam,0.444444444,0.285714286,0
+6071,Bangalore,India,Banbury,United Kingdom,0.444444444,0.214285714,0
+2665,Shanghai,China,Yantai,China,0.5,1.0,0
+1027,Kolkata,India,Kota,India,0.571428571,1.0,0
+5909,Karachi,Pakistan,Hirschaid,Germany,0.444444444,0.125,0
+5051,Manila,Philippines,Maysville,United States,0.444444444,0.230769231,0
+6329,Jakarta,Indonesia,Dagana,Senegal,0.428571429,0.222222222,0
+9734,Bangkok,Thailand,Baneh,Iran,0.428571429,0.25,0
+1692,Jakarta,Indonesia,Jalawla',Iraq,0.5,0.111111111,0
+674,Jakarta,Indonesia,Caserta,Italy,0.571428571,0.111111111,0
+5573,Kolkata,India,Malacatan,Guatemala,0.444444444,0.111111111,0
+5767,Istanbul,Turkey,Islamabad,India,0.444444444,0.0,0
+5157,Shanghai,China,Shamalgan,Kazakhstan,0.444444444,0.2,0
+734,Jakarta,Indonesia,Jawasa,India,0.571428571,0.555555556,0
+3527,Beijing,China,Sierning,Austria,0.5,0.142857143,0
+569,Dhaka,Bangladesh,Saka,Morocco,0.6,0.0,0
+9188,Kolkata,India,Kole,Uganda,0.428571429,0.333333333,0
+2923,Shanghai,China,Shamsa,India,0.5,0.2,0
+7912,Manila,Philippines,Marcali,Hungary,0.428571429,0.0,0
+1559,Mexico City,Mexico,Union City,United States,0.545454545,0.076923077,0
+102,Kolkata,India,Kolwara,India,0.714285714,1.0,0
+3008,Shanghai,China,Langnau,Switzerland,0.5,0.181818182,0
+7202,Delhi,India,De Witt,United States,0.428571429,0.230769231,0
+304,Manila,Philippines,Misantla,Mexico,0.625,0.090909091,0
+77,Karachi,Pakistan,Karachev,Russia,0.75,0.25,0
+6755,Jakarta,Indonesia,Jevargi,India,0.428571429,0.555555556,0
+8630,Dhaka,Bangladesh,Doiwala,India,0.428571429,0.2,0
+1209,Karachi,Pakistan,Kalavai,India,0.571428571,0.25,0
+7743,Manila,Philippines,Tukwila,United States,0.428571429,0.230769231,0
+8215,Cairo,Egypt,Chikugo,Japan,0.428571429,0.0,0
+8945,Beijing,China,Bejar,Spain,0.428571429,0.2,0
+8414,Cairo,Egypt,Clinton,United States,0.428571429,0.076923077,0
+1776,Delhi,India,Pelham,United States,0.5,0.230769231,0
+3474,Beijing,China,Jiujiang,China,0.5,1.0,0
+484,Manila,Philippines,Mandialaza,Madagascar,0.6,0.0,0
+2190,Manila,Philippines,Machinga,Malawi,0.5,0.181818182,0
+347,Shanghai,China,Zhongbai,China,0.625,1.0,0
+5482,New York,United States,New Mills,United Kingdom,0.444444444,0.5,0
+8362,Cairo,Egypt,Cevicos,Dominican Republic,0.428571429,0.055555556,0
+1473,Karachi,Pakistan,Kalanchak,Ukraine,0.555555556,0.125,0
+5101,Shanghai,China,Nong Khai,Thailand,0.444444444,0.375,0
+6766,Jakarta,Indonesia,Zarautz,Spain,0.428571429,0.111111111,0
+8707,Beijing,China,Bergen,Norway,0.428571429,0.166666667,0
+4930,Manila,Philippines,Pativilca,Peru,0.444444444,0.090909091,0
+6330,Jakarta,Indonesia,Arakawa,Japan,0.428571429,0.111111111,0
+2610,Manila,Philippines,Banino,Poland,0.5,0.272727273,0
+4,Delhi,India,Delhi,United States,1.0,0.230769231,0
+2214,Manila,Philippines,Manhuacu,Brazil,0.5,0.090909091,0
+4828,Guangzhou,China,Bangaon,India,0.444444444,0.2,0
+857,Manila,Philippines,Magalia,United States,0.571428571,0.230769231,0
+6978,Jakarta,Indonesia,Saraiya,India,0.428571429,0.555555556,0
+5886,Karachi,Pakistan,Motomachi,Japan,0.444444444,0.375,0
+625,Lagos,Nigeria,Lavis,Italy,0.6,0.0,0
+291,Jakarta,Indonesia,Sakaraha,Madagascar,0.625,0.3,0
+2019,Mumbai,India,Hubli,India,0.5,1.0,0
+669,Jakarta,Indonesia,Ifakara,Tanzania,0.571428571,0.333333333,0
+8922,Beijing,China,Verin,Spain,0.428571429,0.2,0
+8265,Cairo,Egypt,Ramdiri,India,0.428571429,0.0,0
+9697,Bangkok,Thailand,Panabo,Philippines,0.428571429,0.272727273,0
+1632,Tokyo,Japan,Bokoro,Chad,0.5,0.2,0
+5171,Shanghai,China,Santuario,Colombia,0.444444444,0.25,0
+7206,Delhi,India,Dongshi,Taiwan,0.428571429,0.166666667,0
+2523,Manila,Philippines,Raia,India,0.5,0.090909091,0
+2216,Manila,Philippines,Manbij,Syria,0.5,0.090909091,0
+6969,Jakarta,Indonesia,Gaura,India,0.428571429,0.555555556,0
+6497,Jakarta,Indonesia,Lata,Solomon Islands,0.428571429,0.266666667,0
+6214,Bangalore,India,Bakamune,Sri Lanka,0.444444444,0.111111111,0
+7033,Jakarta,Indonesia,Kapaa,United States,0.428571429,0.153846154,0
+7421,Manila,Philippines,Comilla,Bangladesh,0.428571429,0.090909091,0
+1108,Lagos,Nigeria,Lahoysk,Belarus,0.571428571,0.142857143,0
+451,Tokyo,Japan,Koko,Nigeria,0.6,0.0,0
+6290,Jakarta,Indonesia,Hagta,Guam,0.428571429,0.0,0
+9967,Bangkok,Thailand,Vanino,Russia,0.428571429,0.125,0
+136,Guangzhou,China,Huazhou,China,0.666666667,1.0,0
+1786,Delhi,India,Pelham,Canada,0.5,0.333333333,0
+3405,Dhaka,Bangladesh,Mihama,Japan,0.5,0.2,0
+2907,Shanghai,China,Shaogang,China,0.5,1.0,0
+8305,Cairo,Egypt,Cabusao,Philippines,0.428571429,0.090909091,0
+7493,Manila,Philippines,Gambela,Ethiopia,0.428571429,0.272727273,0
+6101,Bangalore,India,Baharu,India,0.444444444,1.0,0
+4505,Jakarta,Indonesia,Cadereyta,Mexico,0.444444444,0.111111111,0
+5054,Manila,Philippines,Magdalena,Bolivia,0.444444444,0.272727273,0
+5206,Sao Paulo,Brazil,Seoul,South Korea,0.444444444,0.0,0
+4081,Karachi,Pakistan,Maracana,Brazil,0.5,0.125,0
+6919,Jakarta,Indonesia,Horta,Portugal,0.428571429,0.111111111,0
+6803,Jakarta,Indonesia,Mutata,Colombia,0.428571429,0.333333333,0
+5207,Sao Paulo,Brazil,Santiago,Chile,0.444444444,0.166666667,0
+533,Cairo,Egypt,Maigo,Philippines,0.6,0.090909091,0
+4831,Guangzhou,China,Gangadhar,India,0.444444444,0.2,0
+4039,Karachi,Pakistan,Kargilik,China,0.5,0.25,0
+4085,Karachi,Pakistan,Yapacani,Bolivia,0.5,0.25,0
+3205,Cairo,Egypt,Tavira,Portugal,0.5,0.0,0
+7111,Jakarta,Indonesia,Hobart,United States,0.428571429,0.153846154,0
+331,Shanghai,China,Changsha,China,0.625,1.0,0
+4958,Manila,Philippines,Manjacaze,Mozambique,0.444444444,0.090909091,0
+3034,Sao Paulo,Brazil,San Manuel,Philippines,0.5,0.090909091,0
+7685,Manila,Philippines,Haliyal,India,0.428571429,0.090909091,0
+1598,Tokyo,Japan,Tocuyito,Venezuela,0.5,0.0,0
+9920,Bangkok,Thailand,Bacolod,Philippines,0.428571429,0.272727273,0
+3598,Kolkata,India,Kozlovka,Russia,0.5,0.333333333,0
+9039,Kolkata,India,Sokoto,Nigeria,0.428571429,0.285714286,0
+8002,Sao Paulo,Brazil,San Estanislao,Paraguay,0.428571429,0.25,0
+591,Lagos,Nigeria,Lalo,Benin,0.6,0.285714286,0
+648,Jakarta,Indonesia,Isparta,Turkey,0.571428571,0.111111111,0
+9103,Kolkata,India,Novara,Italy,0.428571429,0.2,0
+8016,Seoul,South Korea,Jethuli,India,0.428571429,0.090909091,0
+3772,Moscow,Russia,Rostov,Russia,0.5,1.0,0
+9040,Kolkata,India,Xalapa,Mexico,0.428571429,0.166666667,0
+5083,Shanghai,China,Zhangping,China,0.444444444,1.0,0
+7883,Manila,Philippines,Bhangha,India,0.428571429,0.090909091,0
+9363,Kolkata,India,Kulgam,India,0.428571429,1.0,0
+4211,New York,United States,New Baltimore,United States,0.461538462,1.0,0
+8835,Beijing,China,Merzig,Germany,0.428571429,0.142857143,0
+8700,Beijing,China,Betim,Brazil,0.428571429,0.0,0
+1796,Delhi,India,Welzheim,Germany,0.5,0.142857143,0
+2587,Manila,Philippines,Espanola,United States,0.5,0.230769231,0
+8356,Cairo,Egypt,Sabinov,Slovakia,0.428571429,0.0,0
+2317,Manila,Philippines,Safita,Syria,0.5,0.090909091,0
+4186,Sao Paulo,Brazil,Nakhon Pathom,Thailand,0.461538462,0.25,0
+8828,Beijing,China,Pekin,United States,0.428571429,0.153846154,0
+7073,Jakarta,Indonesia,Tubara,Colombia,0.428571429,0.333333333,0
+5235,Sao Paulo,Brazil,Lao Cai,Vietnam,0.444444444,0.0,0
+8744,Beijing,China,Vidin,Bulgaria,0.428571429,0.125,0
+8671,Beijing,China,Jiaxing,China,0.428571429,1.0,0
+4769,Guangzhou,China,Ituango,Colombia,0.444444444,0.25,0
+9973,Bangkok,Thailand,Bahon,Haiti,0.428571429,0.25,0
+7145,Jakarta,Indonesia,Igarka,Russia,0.428571429,0.333333333,0
+2914,Shanghai,China,Shongzhy,Kazakhstan,0.5,0.2,0
+9872,Bangkok,Thailand,Sarkoy,Turkey,0.428571429,0.125,0
+9894,Bangkok,Thailand,Pongoz,Tajikistan,0.428571429,0.3,0
+2076,Manila,Philippines,Madiun,Indonesia,0.5,0.090909091,0
+4303,Shanghai,China,San Ignacio,Honduras,0.454545455,0.125,0
+5823,Karachi,Pakistan,Guamuchil,Mexico,0.444444444,0.125,0
+2150,Manila,Philippines,Harima,Japan,0.5,0.181818182,0
+145,Guangzhou,China,Guankou,China,0.666666667,1.0,0
+4964,Manila,Philippines,Tamilisan,Philippines,0.444444444,1.0,0
+8160,Cairo,Egypt,Falkirk,United Kingdom,0.428571429,0.071428571,0
+9031,Kolkata,India,Korla,China,0.428571429,0.2,0
+4776,Guangzhou,China,Gonghe,China,0.444444444,1.0,0
+8934,Beijing,China,Bejofo,Madagascar,0.428571429,0.1,0
+7750,Manila,Philippines,Guacima,Costa Rica,0.428571429,0.090909091,0
+9829,Bangkok,Thailand,Fangcun,China,0.428571429,0.375,0
+9215,Kolkata,India,Aliaga,Philippines,0.428571429,0.090909091,0
+6061,Bangalore,India,Nagari,India,0.444444444,1.0,0
+9476,Kolkata,India,Saldana,Colombia,0.428571429,0.25,0
+6410,Jakarta,Indonesia,Tamarac,United States,0.428571429,0.153846154,0
+3318,New York,United States,Neftegorsk,Russia,0.5,0.076923077,0
+7465,Manila,Philippines,Pulilan,Philippines,0.428571429,1.0,0
+3062,Seoul,South Korea,Sahuli,India,0.5,0.090909091,0
+1356,Shanghai,China,Whanganui,New Zealand,0.555555556,0.090909091,0
+4515,Jakarta,Indonesia,Saquarema,Brazil,0.444444444,0.111111111,0
+5506,Dhaka,Bangladesh,Dhansaria,India,0.444444444,0.2,0
+5251,Sao Paulo,Brazil,Sankrail,India,0.444444444,0.166666667,0
+4512,Jakarta,Indonesia,Olavarria,Argentina,0.444444444,0.222222222,0
+1731,Jakarta,Indonesia,Nagykata,Hungary,0.5,0.111111111,0
+1759,Delhi,India,Helixi,China,0.5,0.2,0
+6651,Jakarta,Indonesia,Jagna,Philippines,0.428571429,0.090909091,0
+6647,Jakarta,Indonesia,Maibara,Japan,0.428571429,0.111111111,0
+9861,Bangkok,Thailand,Songo,Mozambique,0.428571429,0.1,0
+4140,Karachi,Pakistan,Maraneri,India,0.5,0.25,0
+9394,Kolkata,India,Kothia,India,0.428571429,1.0,0
+5124,Shanghai,China,Sarangpur,India,0.444444444,0.2,0
+1,Tokyo,Japan,Tokyo,Japan,1.0,1.0,1
+1865,Mumbai,India,Dunbar,United Kingdom,0.5,0.214285714,0
+544,Cairo,Egypt,Daigo,Japan,0.6,0.0,0
+350,Shanghai,China,Changzhi,Taiwan,0.625,0.333333333,0
+6907,Jakarta,Indonesia,Bara,India,0.428571429,0.555555556,0
+9766,Bangkok,Thailand,Baro,India,0.428571429,0.25,0
+2524,Manila,Philippines,Kanra,Japan,0.5,0.181818182,0
+3465,Dhaka,Bangladesh,Wanaka,New Zealand,0.5,0.090909091,0
+458,Tokyo,Japan,Poko,Congo (Kinshasa),0.6,0.125,0
+3024,Sao Paulo,Brazil,San Marcos,Costa Rica,0.5,0.2,0
+7262,Mumbai,India,Rustavi,Georgia,0.428571429,0.285714286,0
+9516,Kolkata,India,Parbata,India,0.428571429,1.0,0
+7873,Manila,Philippines,Datiana,India,0.428571429,0.090909091,0
+6626,Jakarta,Indonesia,Bukama,Congo (Kinshasa),0.428571429,0.25,0
+2535,Manila,Philippines,Malka,Jordan,0.5,0.090909091,0
+132,Guangzhou,China,Zhengzhou,China,0.666666667,1.0,0
+3705,Shenzhen,China,Menen,Belgium,0.5,0.142857143,0
+1373,Sao Paulo,Brazil,Sao Luis,Brazil,0.555555556,1.0,0
+6201,Bangalore,India,Pangkou,China,0.444444444,0.2,0
+4857,Mumbai,India,Moudjbara,Algeria,0.444444444,0.285714286,0
+4713,Guangzhou,China,Yanghe,China,0.444444444,1.0,0
+5545,Beijing,China,Gerlingen,Germany,0.444444444,0.142857143,0
+1414,Beijing,China,Biritinga,Brazil,0.555555556,0.0,0
+4114,Karachi,Pakistan,Copalchi,Costa Rica,0.5,0.1,0
+656,Jakarta,Indonesia,Sabara,Brazil,0.571428571,0.111111111,0
+8138,Cairo,Egypt,Jandira,Brazil,0.428571429,0.0,0
+4099,Karachi,Pakistan,Caranavi,Bolivia,0.5,0.25,0
+593,Lagos,Nigeria,Patos,Brazil,0.6,0.142857143,0
+8709,Beijing,China,Messina,Italy,0.428571429,0.0,0
+3124,Cairo,Egypt,Cagliari,Italy,0.5,0.0,0
+3048,Sao Paulo,Brazil,San Marcos,Costa Rica,0.5,0.2,0
+3888,Lagos,Nigeria,Santos,Brazil,0.5,0.142857143,0
+5736,Moscow,Russia,Montlucon,France,0.444444444,0.0,0
+2185,Manila,Philippines,Kardla,Estonia,0.5,0.090909091,0
+2146,Manila,Philippines,Matale,Sri Lanka,0.5,0.181818182,0
+7048,Jakarta,Indonesia,Parapua,Brazil,0.428571429,0.111111111,0
+3106,Mexico City,Mexico,Alexander City,United States,0.5,0.076923077,0
+9234,Kolkata,India,Kakuma,Kenya,0.428571429,0.2,0
+9097,Kolkata,India,Pochuta,Guatemala,0.428571429,0.111111111,0
+2770,Shanghai,China,Sohana,India,0.5,0.2,0
+5222,Sao Paulo,Brazil,Sambhal,India,0.444444444,0.166666667,0
+5834,Karachi,Pakistan,Nor Hachn,Armenia,0.444444444,0.125,0
+1733,Jakarta,Indonesia,Barharia,India,0.5,0.555555556,0
+266,Dhaka,Bangladesh,Dhaula,India,0.666666667,0.2,0
+5145,Shanghai,China,Sarangpur,India,0.444444444,0.2,0
+8268,Cairo,Egypt,Quirino,Philippines,0.428571429,0.090909091,0
+3938,Lagos,Nigeria,Nagold,Germany,0.5,0.142857143,0
+762,Mumbai,India,Kumcati,Turkey,0.571428571,0.0,0
+7221,Delhi,India,Medleri,India,0.428571429,1.0,0
+8440,Dhaka,Bangladesh,Gharyan,Libya,0.428571429,0.1,0
+3258,Cairo,Egypt,Bairia,India,0.5,0.0,0
+4339,Sao Paulo,Brazil,Sao Ludgero,Brazil,0.454545455,1.0,0
+4363,Mexico City,Mexico,Daly City,United States,0.454545455,0.076923077,0
+317,Manila,Philippines,Mansidao,Brazil,0.625,0.090909091,0
+8070,Seoul,South Korea,Nemours,France,0.428571429,0.090909091,0
+1852,Mumbai,India,Mizumaki,Japan,0.5,0.0,0
+2485,Manila,Philippines,Paina,India,0.5,0.090909091,0
+9874,Bangkok,Thailand,Canton,United States,0.428571429,0.076923077,0
+9575,Kolkata,India,Kaimati,India,0.428571429,1.0,0
+1079,Bangkok,Thailand,Banos,Ecuador,0.571428571,0.0,0
+8359,Cairo,Egypt,Suamico,United States,0.428571429,0.076923077,0
+7334,Mumbai,India,Mustang,United States,0.428571429,0.230769231,0
+1072,Bangkok,Thailand,Banki,India,0.571428571,0.25,0
+104,Bangkok,Thailand,Bangaon,India,0.714285714,0.25,0
+5749,Lagos,Nigeria,Las Vegas,United States,0.444444444,0.230769231,0
+1419,Kolkata,India,Kolonnawa,Sri Lanka,0.555555556,0.111111111,0
+1659,Jakarta,Indonesia,Lankaran,Azerbaijan,0.5,0.1,0
+5285,Sao Paulo,Brazil,Raxaul,India,0.444444444,0.166666667,0
+1150,Karachi,Pakistan,Kara,Togo,0.571428571,0.0,0
+7151,Jakarta,Indonesia,Yulara,Australia,0.428571429,0.222222222,0
+1569,Mexico City,Mexico,Yazoo City,United States,0.545454545,0.076923077,0
+1088,Bangkok,Thailand,Sangao,Brazil,0.571428571,0.25,0
+6086,Bangalore,India,Panapur,India,0.444444444,1.0,0
+8675,Beijing,China,Medina,Saudi Arabia,0.428571429,0.166666667,0
+8342,Cairo,Egypt,Asagiri,Japan,0.428571429,0.0,0
+7812,Manila,Philippines,Mayoyao,Philippines,0.428571429,1.0,0
+6085,Bangalore,India,Manga,Burkina Faso,0.444444444,0.166666667,0
+8774,Beijing,China,Buin,Chile,0.428571429,0.6,0
+8758,Beijing,China,Quthing,Lesotho,0.428571429,0.0,0
+1693,Jakarta,Indonesia,Jaguarao,Brazil,0.5,0.111111111,0
+4735,Guangzhou,China,Guambog,Philippines,0.444444444,0.272727273,0
+3388,Dhaka,Bangladesh,Khalkhal,Iran,0.5,0.1,0
+3647,Shenzhen,China,Shengli,China,0.5,1.0,0
+1684,Jakarta,Indonesia,Macerata,Italy,0.5,0.111111111,0
+9,Sao Paulo,Brazil,Sao Paulo,Brazil,1.0,1.0,1
+6063,Bangalore,India,Bungoma,Kenya,0.444444444,0.2,0
+6517,Jakarta,Indonesia,Jatai,Brazil,0.428571429,0.111111111,0
+4124,Karachi,Pakistan,Kaujalgi,India,0.5,0.25,0
+8730,Beijing,China,Berkane,Morocco,0.428571429,0.0,0
+6046,Bangalore,India,Gangawati,India,0.444444444,1.0,0
+568,Dhaka,Bangladesh,Shama,Ghana,0.6,0.2,0
+9162,Kolkata,India,Konand,India,0.428571429,1.0,0
+1804,Delhi,India,Bellheim,Germany,0.5,0.142857143,0
+8502,Dhaka,Bangladesh,Phaltan,India,0.428571429,0.2,0
+4901,Manila,Philippines,Calilabad,Azerbaijan,0.444444444,0.090909091,0
+1600,Tokyo,Japan,Tororo,Uganda,0.5,0.166666667,0
+7932,Manila,Philippines,Madhura,India,0.428571429,0.090909091,0
+9548,Kolkata,India,Bolkhov,Russia,0.428571429,0.333333333,0
+2824,Shanghai,China,Banga,Philippines,0.5,0.272727273,0
+5468,New York,United States,New Haven,United States,0.444444444,1.0,0
+3530,Beijing,China,Bazimini,Comoros,0.5,0.142857143,0
+8684,Beijing,China,Xinxing,China,0.428571429,1.0,0
+1156,Karachi,Pakistan,Sarandi,Argentina,0.571428571,0.222222222,0
+6548,Jakarta,Indonesia,Tamana,Japan,0.428571429,0.111111111,0
+9089,Kolkata,India,Allada,Benin,0.428571429,0.2,0
+7621,Manila,Philippines,Mankato,United States,0.428571429,0.230769231,0
+8297,Cairo,Egypt,Paraiso,Costa Rica,0.428571429,0.0,0
+4541,Jakarta,Indonesia,Tapaktuan,Indonesia,0.444444444,1.0,0
+9135,Kolkata,India,Koumra,Chad,0.428571429,0.0,0
+6483,Jakarta,Indonesia,Rabat,Malta,0.428571429,0.111111111,0
+5827,Karachi,Pakistan,Narapalli,India,0.444444444,0.25,0
+1191,Karachi,Pakistan,Oarai,Japan,0.571428571,0.375,0
+7445,Manila,Philippines,Mahabad,Iran,0.428571429,0.090909091,0
+8521,Dhaka,Bangladesh,Dalkola,India,0.428571429,0.2,0
+961,Beijing,China,Banning,United States,0.571428571,0.153846154,0
+7455,Manila,Philippines,Santana,Brazil,0.428571429,0.090909091,0
+37,Manila,Philippines,Mandla,India,0.833333333,0.090909091,0
+7517,Manila,Philippines,Bartica,Guyana,0.428571429,0.090909091,0
+7645,Manila,Philippines,Masamba,Indonesia,0.428571429,0.090909091,0
+4439,Shenzhen,China,Wang'anzhen,China,0.454545455,1.0,0
+6162,Bangalore,India,Binga,Congo (Kinshasa),0.444444444,0.1875,0
+7745,Manila,Philippines,Matanga,Madagascar,0.428571429,0.0,0
+9588,Kolkata,India,Colac,Australia,0.428571429,0.222222222,0
+8120,Cairo,Egypt,Craiova,Romania,0.428571429,0.0,0
+6968,Jakarta,Indonesia,Jitauna,Brazil,0.428571429,0.111111111,0
+5719,Shenzhen,China,Senirkent,Turkey,0.444444444,0.0,0
+578,Dhaka,Bangladesh,Isaka,Madagascar,0.6,0.2,0
+9834,Bangkok,Thailand,Brandon,Canada,0.428571429,0.25,0
+4103,Karachi,Pakistan,Karianga,Madagascar,0.5,0.3,0
+7647,Manila,Philippines,Maibara,Japan,0.428571429,0.181818182,0
+4152,Karachi,Pakistan,Kanhauli,India,0.5,0.25,0
+3131,Cairo,Egypt,Maicao,Colombia,0.5,0.0,0
+4891,Manila,Philippines,Mandapeta,India,0.444444444,0.090909091,0
+9976,Bangkok,Thailand,Baymak,Russia,0.428571429,0.125,0
+7472,Manila,Philippines,Maramag,Philippines,0.428571429,1.0,0
+1834,Mumbai,India,Wamba,Congo (Kinshasa),0.5,0.1875,0
+9149,Kolkata,India,Aldama,Mexico,0.428571429,0.166666667,0
+4892,Manila,Philippines,Madhipura,India,0.444444444,0.090909091,0
+2288,Manila,Philippines,Mira,Italy,0.5,0.090909091,0
+1331,Manila,Philippines,Mirandola,Italy,0.555555556,0.090909091,0
+2772,Shanghai,China,Bhachhi,India,0.5,0.2,0
+3687,Shenzhen,China,Sherman,United States,0.5,0.153846154,0
+8284,Cairo,Egypt,Naciria,Algeria,0.428571429,0.142857143,0
+5929,Karachi,Pakistan,Tarhjicht,Morocco,0.444444444,0.0,0
+638,Mexico City,Mexico,Ventnor City,United States,0.583333333,0.076923077,0
+48,Lagos,Nigeria,Lagoa,Portugal,0.8,0.125,0
+2603,Manila,Philippines,Manvel,United States,0.5,0.230769231,0
+1966,Mumbai,India,Dourbali,Chad,0.5,0.0,0
+2169,Manila,Philippines,Mannarai,India,0.5,0.090909091,0
+5050,Manila,Philippines,Carbonita,Brazil,0.444444444,0.090909091,0
+3335,Dhaka,Bangladesh,Melaka,Malaysia,0.5,0.3,0
+3020,Shanghai,China,Chagda,Russia,0.5,0.166666667,0
+8765,Beijing,China,Binyin,Uganda,0.428571429,0.333333333,0
+9177,Kolkata,India,Valka,Latvia,0.428571429,0.333333333,0
+1361,Shanghai,China,Sarangani,Philippines,0.555555556,0.272727273,0
+5799,Karachi,Pakistan,Kagoshima,Japan,0.444444444,0.375,0
+9401,Kolkata,India,Rolla,United States,0.428571429,0.230769231,0
+3252,Cairo,Egypt,Saboeiro,Brazil,0.5,0.0,0
+6301,Jakarta,Indonesia,Kartal,Turkey,0.428571429,0.111111111,0
+2252,Manila,Philippines,Mabini,Philippines,0.5,1.0,0
+6028,Bangalore,India,Bankura,India,0.444444444,1.0,0
+1176,Karachi,Pakistan,Paravai,India,0.571428571,0.25,0
+8800,Beijing,China,Fuxing,Taiwan,0.428571429,0.333333333,0
+3280,Cairo,Egypt,Paimio,Finland,0.5,0.0,0
+2974,Shanghai,China,Ghagga,India,0.5,0.2,0
+3397,Dhaka,Bangladesh,Thatha,India,0.5,0.2,0
+6940,Jakarta,Indonesia,Tamar,India,0.428571429,0.555555556,0
+966,Beijing,China,Shiling,China,0.571428571,1.0,0
+8575,Dhaka,Bangladesh,Usharal,Kazakhstan,0.428571429,0.1,0
+743,Jakarta,Indonesia,Jabera,India,0.571428571,0.555555556,0
+7515,Manila,Philippines,Bacalar,Mexico,0.428571429,0.090909091,0
+3315,New York,United States,Newberg,United States,0.5,1.0,0
+4899,Manila,Philippines,Miacatlan,Mexico,0.444444444,0.090909091,0
+9341,Kolkata,India,Sola,Norway,0.428571429,0.166666667,0
+4673,Guangzhou,China,Guanare,Venezuela,0.444444444,0.111111111,0
+8619,Dhaka,Bangladesh,Chewara,India,0.428571429,0.2,0
+1218,Karachi,Pakistan,Kerai,India,0.571428571,0.25,0
+4398,Mexico City,Mexico,Tuba City,United States,0.454545455,0.076923077,0
+6081,Bangalore,India,Banlung,Cambodia,0.444444444,0.375,0
+2615,Manila,Philippines,Manchi,India,0.5,0.090909091,0
+2621,Manila,Philippines,Ralla,India,0.5,0.090909091,0
+8715,Beijing,China,Rajin,North Korea,0.428571429,0.181818182,0
+7283,Mumbai,India,Rustavi,Georgia,0.428571429,0.285714286,0
+3380,Dhaka,Bangladesh,Chatra,India,0.5,0.2,0
+7302,Mumbai,India,Lombard,United States,0.428571429,0.230769231,0
+9858,Bangkok,Thailand,Bantay,Philippines,0.428571429,0.272727273,0
+5606,Kolkata,India,Kolokonde,Benin,0.444444444,0.2,0
+9814,Bangkok,Thailand,Banane,Kenya,0.428571429,0.125,0
+5787,Istanbul,Turkey,Sultanpur,India,0.444444444,0.0,0
+8519,Dhaka,Bangladesh,Charaut,India,0.428571429,0.2,0
+6851,Jakarta,Indonesia,Laukaa,Finland,0.428571429,0.111111111,0
+1517,Guangzhou,China,Guinagourou,Benin,0.545454545,0.2,0
+5099,Shanghai,China,Ruhengeri,Rwanda,0.444444444,0.333333333,0
+7637,Manila,Philippines,Sandino,Cuba,0.428571429,0.0,0
+9086,Kolkata,India,Umtata,South Africa,0.428571429,0.166666667,0
+8024,Seoul,South Korea,Meghaul,India,0.428571429,0.090909091,0
+2393,Manila,Philippines,Kanchika,India,0.5,0.090909091,0
+587,Lagos,Nigeria,Bago,Myanmar,0.6,0.0,0
+3520,Beijing,China,Sterling,United States,0.5,0.153846154,0
+7654,Manila,Philippines,Gandara,Philippines,0.428571429,1.0,0
+8947,Beijing,China,Tring,United Kingdom,0.428571429,0.142857143,0
+851,Manila,Philippines,Marikal,India,0.571428571,0.090909091,0
+336,Shanghai,China,Linghai,China,0.625,1.0,0
+6635,Jakarta,Indonesia,Jayrud,Syria,0.428571429,0.222222222,0
+8973,Beijing,China,Poirino,Italy,0.428571429,0.0,0
+7494,Manila,Philippines,Pallisa,Uganda,0.428571429,0.090909091,0
+2869,Shanghai,China,Jiangdi,China,0.5,1.0,0
+4873,Manila,Philippines,Mangalore,India,0.444444444,0.090909091,0
+3551,Kolkata,India,Kollegal,India,0.5,1.0,0
+3843,Moscow,Russia,Cocoa,United States,0.5,0.076923077,0
+7263,Mumbai,India,Turbaco,Colombia,0.428571429,0.25,0
+5825,Karachi,Pakistan,Kartarpur,India,0.444444444,0.25,0
+24,Buenos Aires,Argentina,Buenos Aires,Colombia,1.0,0.222222222,0
+1454,Karachi,Pakistan,Kunitachi,Japan,0.555555556,0.375,0
+1685,Jakarta,Indonesia,Marantao,Philippines,0.5,0.090909091,0
+2311,Manila,Philippines,Kadingilan,Philippines,0.5,1.0,0
+9064,Kolkata,India,Fontana,United States,0.428571429,0.230769231,0
+9407,Kolkata,India,Rolante,Brazil,0.428571429,0.166666667,0
+382,New York,United States,Newport,United States,0.625,1.0,0
+5815,Karachi,Pakistan,Kirishima,Japan,0.444444444,0.375,0
+5551,Beijing,China,Rellingen,Germany,0.444444444,0.142857143,0
+9309,Kolkata,India,Ilawa,Poland,0.428571429,0.0,0
+1619,Tokyo,Japan,Tobelo,Indonesia,0.5,0.111111111,0
+790,Manila,Philippines,Parilla,Mexico,0.571428571,0.090909091,0
+5984,Bangalore,India,Barcelona,Venezuela,0.444444444,0.222222222,0
+8673,Beijing,China,Beidao,China,0.428571429,1.0,0
+4476,Tokyo,Japan,El Tocuyo,Venezuela,0.444444444,0.0,0
+5607,Kolkata,India,Kodikulam,India,0.444444444,1.0,0
+9313,Kolkata,India,Golbasi,Turkey,0.428571429,0.0,0
+5649,Bangkok,Thailand,Sitangkai,Philippines,0.444444444,0.272727273,0
+6217,Bangalore,India,Danville,United States,0.444444444,0.230769231,0
+2287,Manila,Philippines,Moanda,Gabon,0.5,0.090909091,0
+9994,Bangkok,Thailand,Mangqu,China,0.428571429,0.375,0
+7579,Manila,Philippines,Nanpara,India,0.428571429,0.090909091,0
+1184,Karachi,Pakistan,Karcag,Hungary,0.571428571,0.0,0
+6002,Bangalore,India,Bayamo,Cuba,0.444444444,0.2,0
+5091,Shanghai,China,Phatthaya,Thailand,0.444444444,0.375,0
+2517,Manila,Philippines,Madugula,India,0.5,0.090909091,0
+4123,Karachi,Pakistan,Kalajoki,Finland,0.5,0.25,0
+5522,Beijing,China,Longjiang,China,0.444444444,1.0,0
+5628,Kolkata,India,Uspallata,Argentina,0.444444444,0.333333333,0
+8361,Cairo,Egypt,Gavardo,Italy,0.428571429,0.0,0
+5873,Karachi,Pakistan,Marapanim,Brazil,0.444444444,0.125,0
+8613,Dhaka,Bangladesh,Deokali,India,0.428571429,0.2,0
+7728,Manila,Philippines,Petrila,Romania,0.428571429,0.090909091,0
+5969,Bangalore,India,Bangui,Central African Republic,0.444444444,0.125,0
+1181,Karachi,Pakistan,Palashi,India,0.571428571,0.25,0
+8763,Beijing,China,Briceni,Moldova,0.428571429,0.142857143,0
+8236,Cairo,Egypt,Chortoq,Uzbekistan,0.428571429,0.1,0
+2819,Shanghai,China,Shazhou,China,0.5,1.0,0
+9965,Bangkok,Thailand,Ban Mai,Thailand,0.428571429,1.0,0
+8704,Beijing,China,Lansing,United States,0.428571429,0.153846154,0
+6609,Jakarta,Indonesia,Labutta,Myanmar,0.428571429,0.111111111,0
+2821,Shanghai,China,Zhangcun,China,0.5,1.0,0
+7536,Manila,Philippines,Ribnica,Slovenia,0.428571429,0.181818182,0
+2261,Manila,Philippines,Bajil,Yemen,0.5,0.090909091,0
+2240,Manila,Philippines,Avila,Spain,0.5,0.272727273,0
+6022,Bangalore,India,Naogaon,Bangladesh,0.444444444,0.2,0
+783,Manila,Philippines,Maralal,Kenya,0.571428571,0.090909091,0
+933,Beijing,China,Leling,China,0.571428571,1.0,0
+6203,Bangalore,India,Dingle,Philippines,0.444444444,0.090909091,0
+2413,Manila,Philippines,Malaga,Colombia,0.5,0.181818182,0
+6998,Jakarta,Indonesia,Sarare,Venezuela,0.428571429,0.222222222,0
+9116,Kolkata,India,Kouvola,Finland,0.428571429,0.142857143,0
+1157,Karachi,Pakistan,Barabai,Indonesia,0.571428571,0.111111111,0
+8108,Cairo,Egypt,Chiniot,Pakistan,0.428571429,0.125,0
+5806,Karachi,Pakistan,Kharagpur,India,0.444444444,0.25,0
+4880,Manila,Philippines,Gandajika,Congo (Kinshasa),0.444444444,0.1875,0
+3310,New York,United States,Newton,Sierra Leone,0.5,0.153846154,0
+8962,Beijing,China,Lansing,United States,0.428571429,0.153846154,0
+1703,Jakarta,Indonesia,Jaggampeta,India,0.5,0.555555556,0
+2493,Manila,Philippines,Tapilula,Mexico,0.5,0.090909091,0
+3707,Shenzhen,China,Shentang,China,0.5,1.0,0
+8277,Cairo,Egypt,Fairfax,United States,0.428571429,0.076923077,0
+287,Mexico City,Mexico,Texas City,United States,0.636363636,0.076923077,0
+1609,Tokyo,Japan,Kokomo,United States,0.5,0.076923077,0
+6632,Jakarta,Indonesia,Nabaruh,Egypt,0.428571429,0.0,0
+8279,Cairo,Egypt,Candoni,Philippines,0.428571429,0.090909091,0
+7316,Mumbai,India,Dumalag,Philippines,0.428571429,0.090909091,0
+2253,Manila,Philippines,Mandvi,India,0.5,0.090909091,0
+7416,Manila,Philippines,Markham,Canada,0.428571429,0.0,0
+8366,Cairo,Egypt,Cardoso,Brazil,0.428571429,0.0,0
+1892,Mumbai,India,Lucban,Philippines,0.5,0.090909091,0
+5063,Shanghai,China,Guangzhou,China,0.444444444,1.0,0
+6121,Bangalore,India,Bu'aale,Somalia,0.444444444,0.285714286,0
+564,Dhaka,Bangladesh,Dama,China,0.6,0.1,0
+292,Jakarta,Indonesia,Takahata,Japan,0.625,0.111111111,0
+4717,Guangzhou,China,Sungo,Angola,0.444444444,0.166666667,0
+7709,Manila,Philippines,Magenta,Italy,0.428571429,0.090909091,0
+6350,Jakarta,Indonesia,Sacaba,Bolivia,0.428571429,0.333333333,0
+170,Mumbai,India,Jambai,India,0.666666667,1.0,0
+268,Beijing,China,Beidaying,China,0.666666667,1.0,0
+4639,Guangzhou,China,Gurgaon,India,0.444444444,0.2,0
+7078,Jakarta,Indonesia,Lapanga,India,0.428571429,0.555555556,0
+3356,Dhaka,Bangladesh,Chatan,Japan,0.5,0.2,0
+8280,Cairo,Egypt,Corinto,Brazil,0.428571429,0.0,0
+316,Manila,Philippines,Mantsala,Finland,0.625,0.181818182,0
+6729,Jakarta,Indonesia,Awara,Japan,0.428571429,0.111111111,0
+9496,Kolkata,India,Kaimana,Indonesia,0.428571429,0.555555556,0
+4068,Karachi,Pakistan,Marratxi,Spain,0.5,0.25,0
+246,Cairo,Egypt,Camiri,Bolivia,0.666666667,0.0,0
+253,Cairo,Egypt,Chaiyo,Thailand,0.666666667,0.0,0
+1112,Karachi,Pakistan,Caracas,Venezuela,0.571428571,0.0,0
+4802,Guangzhou,China,Glasgow,United States,0.444444444,0.153846154,0
+1714,Jakarta,Indonesia,Barharwa,India,0.5,0.555555556,0
+51,Guangzhou,China,Quanzhou,China,0.777777778,1.0,0
+1836,Mumbai,India,Guimba,Philippines,0.5,0.090909091,0
+7897,Manila,Philippines,Huanian,China,0.428571429,0.272727273,0
+3384,Dhaka,Bangladesh,Dohazari,Bangladesh,0.5,1.0,0
+6411,Jakarta,Indonesia,Bankra,India,0.428571429,0.555555556,0
+4314,Sao Paulo,Brazil,San Juanito,Mexico,0.454545455,0.0,0
+873,Cairo,Egypt,Nairobi,Kenya,0.571428571,0.0,0
+1255,Jakarta,Indonesia,Fakirtaki,India,0.555555556,0.555555556,0
+8882,Beijing,China,Shirin,Uzbekistan,0.428571429,0.2,0
+5852,Karachi,Pakistan,Nomimachi,Japan,0.444444444,0.375,0
+5703,Shenzhen,China,Shebekino,Russia,0.444444444,0.166666667,0
+8104,Cairo,Egypt,Gaizhou,China,0.428571429,0.0,0
+2099,Manila,Philippines,Larisa,Greece,0.5,0.090909091,0
+5129,Shanghai,China,Santuario,Colombia,0.444444444,0.25,0
+249,Cairo,Egypt,Canico,Portugal,0.666666667,0.0,0
+6562,Jakarta,Indonesia,Samana,Dominican Republic,0.428571429,0.222222222,0
+1340,Manila,Philippines,Mansfield,United States,0.555555556,0.230769231,0
+7018,Jakarta,Indonesia,Bakwa,India,0.428571429,0.555555556,0
+2111,Manila,Philippines,Latina,Italy,0.5,0.090909091,0
+1570,Mexico City,Mexico,Tipp City,United States,0.545454545,0.076923077,0
+1727,Jakarta,Indonesia,Samahuta,India,0.5,0.555555556,0
+8385,Cairo,Egypt,Tarboro,United States,0.428571429,0.076923077,0
+6941,Jakarta,Indonesia,Itakura,Japan,0.428571429,0.111111111,0
+4396,Mexico City,Mexico,Silver City,United States,0.454545455,0.076923077,0
+2421,Manila,Philippines,Majhua,India,0.5,0.090909091,0
+3046,Sao Paulo,Brazil,San Marino,United States,0.5,0.076923077,0
+5504,Dhaka,Bangladesh,Shakhunya,Russia,0.444444444,0.1,0
+3704,Shenzhen,China,Seelze,Germany,0.5,0.142857143,0
+8192,Cairo,Egypt,Maizuru,Japan,0.428571429,0.0,0
+5332,Sao Paulo,Brazil,Salgado,Brazil,0.444444444,1.0,0
+9809,Bangkok,Thailand,Baao,Philippines,0.428571429,0.272727273,0
+448,Tokyo,Japan,Tosya,Turkey,0.6,0.0,0
+7895,Manila,Philippines,Mangabe,Madagascar,0.428571429,0.0,0
+8729,Beijing,China,Wuling,China,0.428571429,1.0,0
+7829,Manila,Philippines,Nastola,Finland,0.428571429,0.181818182,0
+1769,Delhi,India,Delano,United States,0.5,0.230769231,0
+6809,Jakarta,Indonesia,Ladario,Brazil,0.428571429,0.111111111,0
+4705,Guangzhou,China,Glazov,Russia,0.444444444,0.166666667,0
+3870,Buenos Aires,Argentina,Ben Tre,Vietnam,0.5,0.333333333,0
+1656,Jakarta,Indonesia,Nazareth,Israel,0.5,0.222222222,0
+3188,Cairo,Egypt,Catmon,Philippines,0.5,0.090909091,0
+684,Jakarta,Indonesia,Saparua,Indonesia,0.571428571,1.0,0
+4171,Shanghai,China,Shuangxianxiang,China,0.466666667,1.0,0
+4478,Jakarta,Indonesia,Canagatan,Philippines,0.444444444,0.090909091,0
+462,Tokyo,Japan,Tobyl,Kazakhstan,0.6,0.3,0
+5765,Istanbul,Turkey,Osmanabad,India,0.444444444,0.0,0
+7523,Manila,Philippines,Sjenica,Serbia,0.428571429,0.090909091,0
+4503,Jakarta,Indonesia,Huskvarna,Sweden,0.444444444,0.111111111,0
+9710,Bangkok,Thailand,Basuo,China,0.428571429,0.375,0
+319,Manila,Philippines,Magnolia,United States,0.625,0.230769231,0
+1146,Karachi,Pakistan,Katakwi,Uganda,0.571428571,0.125,0
+5095,Shanghai,China,Gangawati,India,0.444444444,0.2,0
+1394,Sao Paulo,Brazil,San Pedro,Colombia,0.555555556,0.125,0
+6624,Jakarta,Indonesia,Kalaiya,Nepal,0.428571429,0.111111111,0
+1502,Bangalore,India,Manaure,Colombia,0.555555556,0.25,0
+6409,Jakarta,Indonesia,Salama,Guatemala,0.428571429,0.111111111,0
+377,New York,United States,Newport,United Kingdom,0.625,0.5,0
+411,Shenzhen,China,Kenzhe,Russia,0.625,0.166666667,0
+1661,Jakarta,Indonesia,Paiporta,Spain,0.5,0.111111111,0
+3152,Cairo,Egypt,Chilon,Mexico,0.5,0.0,0
+1624,Tokyo,Japan,Toktogul,Kyrgyzstan,0.5,0.2,0
+5610,Kolkata,India,Polukallu,India,0.444444444,1.0,0
+8533,Dhaka,Bangladesh,Shangpa,China,0.428571429,0.1,0
+5803,Karachi,Pakistan,Karlsruhe,Germany,0.444444444,0.125,0
+5307,Sao Paulo,Brazil,Rapallo,Italy,0.444444444,0.166666667,0
+7087,Jakarta,Indonesia,Dara,India,0.428571429,0.555555556,0
+8898,Beijing,China,Meiti,India,0.428571429,0.2,0
+7489,Manila,Philippines,Mindelo,Cabo Verde,0.428571429,0.090909091,0
+9616,Kolkata,India,Delta,United States,0.428571429,0.230769231,0
+9218,Kolkata,India,Ilkal,India,0.428571429,1.0,0
+1673,Jakarta,Indonesia,La Barca,Mexico,0.5,0.111111111,0
+2359,Manila,Philippines,Casillas,Guatemala,0.5,0.0,0
+8468,Dhaka,Bangladesh,Chapala,Mexico,0.428571429,0.0,0
+275,Karachi,Pakistan,Kadganchi,India,0.666666667,0.25,0
+2474,Manila,Philippines,Mahaly,Madagascar,0.5,0.0,0
+5490,Dhaka,Bangladesh,Chakapara,India,0.444444444,0.2,0
+4772,Guangzhou,China,Gaoshu,Taiwan,0.444444444,0.333333333,0
+2108,Manila,Philippines,Saida,Algeria,0.5,0.181818182,0
+7501,Manila,Philippines,Maranga,India,0.428571429,0.090909091,0
+4415,Beijing,China,Baipingshan,China,0.454545455,1.0,0
+8139,Cairo,Egypt,Cubatao,Brazil,0.428571429,0.0,0
+8661,Beijing,China,Nanping,China,0.428571429,1.0,0
+8240,Cairo,Egypt,Lautaro,Chile,0.428571429,0.0,0
+2418,Manila,Philippines,Carira,Brazil,0.5,0.090909091,0
+8772,Beijing,China,Famjin,Faroe Islands,0.428571429,0.076923077,0
+2237,Manila,Philippines,Castilla,Philippines,0.5,1.0,0
+3768,Shenzhen,China,Chermen,Russia,0.5,0.166666667,0
+9792,Bangkok,Thailand,Bargarh,India,0.428571429,0.25,0
+9990,Bangkok,Thailand,Mangabe,Madagascar,0.428571429,0.1,0
+9966,Bangkok,Thailand,Manganj,India,0.428571429,0.25,0
+7324,Mumbai,India,Mosbach,Germany,0.428571429,0.142857143,0
+1384,Sao Paulo,Brazil,San Pedro,Argentina,0.555555556,0.222222222,0
+3102,Mexico City,Mexico,Bossier City,United States,0.5,0.076923077,0
+3922,Lagos,Nigeria,Yagoua,Cameroon,0.5,0.25,0
+6686,Jakarta,Indonesia,Varto,Turkey,0.428571429,0.111111111,0
+3195,Cairo,Egypt,Guaira,Brazil,0.5,0.0,0
+1942,Mumbai,India,Ma`bar,Yemen,0.5,0.0,0
+7714,Manila,Philippines,Maracas,Brazil,0.428571429,0.090909091,0
+4897,Manila,Philippines,Tancitaro,Mexico,0.444444444,0.090909091,0
+4783,Guangzhou,China,Dagohoy,Philippines,0.444444444,0.272727273,0
+1497,Bangalore,India,Pongalur,India,0.555555556,1.0,0
+1958,Mumbai,India,Yumbel,Chile,0.5,0.0,0
+9172,Kolkata,India,Bogota,United States,0.428571429,0.230769231,0
+9746,Bangkok,Thailand,Banbury,United Kingdom,0.428571429,0.142857143,0
+7333,Mumbai,India,Samboan,Philippines,0.428571429,0.090909091,0
+7950,Manila,Philippines,Magnago,Italy,0.428571429,0.090909091,0
+3018,Shanghai,China,Langar,Tajikistan,0.5,0.2,0
+6747,Jakarta,Indonesia,Tavira,Portugal,0.428571429,0.111111111,0
+514,Cairo,Egypt,Chico,United States,0.6,0.076923077,0
+3935,Lagos,Nigeria,Pyrgos,Greece,0.5,0.142857143,0
+3026,Sao Paulo,Brazil,Sao Mateus,Brazil,0.5,1.0,0
+1200,Karachi,Pakistan,Barkuhi,India,0.571428571,0.25,0
+5029,Manila,Philippines,Karayilan,Turkey,0.444444444,0.090909091,0
+9785,Bangkok,Thailand,Sanjo,Japan,0.428571429,0.375,0
+922,Beijing,China,Siping,China,0.571428571,1.0,0
+4650,Guangzhou,China,Glasgow,United Kingdom,0.444444444,0.142857143,0
+5333,Sao Paulo,Brazil,La Paz,Philippines,0.444444444,0.090909091,0
+1077,Bangkok,Thailand,Barkot,India,0.571428571,0.25,0
+6769,Jakarta,Indonesia,Paita,New Caledonia,0.428571429,0.230769231,0
+9411,Kolkata,India,Agliana,Italy,0.428571429,0.2,0
+1672,Jakarta,Indonesia,Shakargarh,Pakistan,0.5,0.111111111,0
+475,Delhi,India,Lehi,United States,0.6,0.230769231,0
+9187,Kolkata,India,Koani,Tanzania,0.428571429,0.375,0
+8840,Beijing,China,Cecina,Italy,0.428571429,0.0,0
+5759,Lagos,Nigeria,Nagykoros,Hungary,0.444444444,0.142857143,0
+6298,Jakarta,Indonesia,Marka,Somalia,0.428571429,0.333333333,0
+2479,Manila,Philippines,Grandola,Portugal,0.5,0.090909091,0
+5494,Dhaka,Bangladesh,Dishashah,Egypt,0.444444444,0.1,0
+3915,Lagos,Nigeria,Lawton,United States,0.5,0.230769231,0
+2139,Manila,Philippines,Yala,Thailand,0.5,0.272727273,0
+5455,Cairo,Egypt,Carrillos,Costa Rica,0.444444444,0.0,0
+5380,Sao Paulo,Brazil,Parauli,India,0.444444444,0.166666667,0
+8986,Beijing,China,Bruino,Italy,0.428571429,0.0,0
+4024,Karachi,Pakistan,Karbala',Iraq,0.5,0.125,0
+3486,Beijing,China,Leuwiliang,Indonesia,0.5,0.222222222,0
+2456,Manila,Philippines,Malta,United States,0.5,0.230769231,0
+2465,Manila,Philippines,Marghita,Romania,0.5,0.090909091,0
+8697,Beijing,China,Binan,Philippines,0.428571429,0.272727273,0
+1370,Shanghai,China,Inhangapi,Brazil,0.555555556,0.0,0
+6689,Jakarta,Indonesia,Balatan,Philippines,0.428571429,0.090909091,0
+7457,Manila,Philippines,Kamalia,Pakistan,0.428571429,0.272727273,0
+9975,Bangkok,Thailand,Kangaba,Mali,0.428571429,0.25,0
+1902,Mumbai,India,Memari,India,0.5,1.0,0
+4872,Manila,Philippines,Marseille,France,0.444444444,0.090909091,0
+4711,Guangzhou,China,Zhanggu,China,0.444444444,1.0,0
+7887,Manila,Philippines,Santona,Spain,0.428571429,0.272727273,0
+1794,Delhi,India,Beladi,India,0.5,1.0,0
+2875,Shanghai,China,Seondha,India,0.5,0.2,0
+6218,Shanghai,China,Shahpur Baghauni,India,0.4375,0.2,0
+5214,Sao Paulo,Brazil,El Paso,United States,0.444444444,0.076923077,0
+2246,Manila,Philippines,Cajica,Colombia,0.5,0.181818182,0
+1742,Jakarta,Indonesia,Jaladurgam,India,0.5,0.555555556,0
+1021,Kolkata,India,Kalat,Pakistan,0.571428571,0.25,0
+706,Jakarta,Indonesia,Jatauba,Brazil,0.571428571,0.111111111,0
+4295,Shanghai,China,Samadh Bhai,India,0.454545455,0.2,0
+5577,Kolkata,India,Yoshikawa,Japan,0.444444444,0.0,0
+7167,Delhi,India,Memphis,United States,0.428571429,0.230769231,0
+8178,Cairo,Egypt,Cankuzo,Burundi,0.428571429,0.0,0
+909,Dhaka,Bangladesh,Pharkia,India,0.571428571,0.2,0
+5194,Shanghai,China,Sivamalai,India,0.444444444,0.2,0
+3078,Seoul,South Korea,Supaul,India,0.5,0.090909091,0
+9367,Kolkata,India,Salcaja,Guatemala,0.428571429,0.111111111,0
+595,Lagos,Nigeria,Magas,Russia,0.6,0.285714286,0
+5305,Sao Paulo,Brazil,La Paz,Philippines,0.444444444,0.090909091,0
+441,Tokyo,Japan,Togo,Japan,0.6,1.0,0
+7607,Manila,Philippines,Kashira,Russia,0.428571429,0.090909091,0
+4093,Karachi,Pakistan,Kanchika,India,0.5,0.25,0
+6135,Bangalore,India,Sangrur,India,0.444444444,1.0,0
+11,Mexico City,Mexico,Mexico City,Mexico,1.0,1.0,1
+3777,Moscow,Russia,Mokpo,South Korea,0.5,0.181818182,0
+9000,Beijing,China,Penig,Germany,0.428571429,0.142857143,0
+3709,Shenzhen,China,Szentes,Hungary,0.5,0.142857143,0
+3781,Moscow,Russia,Mogok,Myanmar,0.5,0.142857143,0
+94,Manila,Philippines,Mangala,India,0.714285714,0.090909091,0
+9240,Kolkata,India,Kalna,India,0.428571429,1.0,0
+3950,Lagos,Nigeria,Ladson,United States,0.5,0.230769231,0
+5786,Istanbul,Turkey,Bayanauyl,Kazakhstan,0.444444444,0.1,0
+4871,Manila,Philippines,Manhattan,United States,0.444444444,0.230769231,0
+4803,Guangzhou,China,Guapo,Brazil,0.444444444,0.0,0
+4868,Mumbai,India,Mundybash,Russia,0.444444444,0.333333333,0
+293,Jakarta,Indonesia,Jhagarua,India,0.625,0.555555556,0
+7889,Manila,Philippines,Opatija,Croatia,0.428571429,0.090909091,0
+7406,Manila,Philippines,Kashiwa,Japan,0.428571429,0.181818182,0
+5596,Kolkata,India,Kalakkadu,India,0.444444444,1.0,0
+2887,Shanghai,China,Sheghnan,Afghanistan,0.5,0.272727273,0
+6455,Jakarta,Indonesia,Gavarr,Armenia,0.428571429,0.333333333,0
+2543,Manila,Philippines,Malial,India,0.5,0.090909091,0
+1766,Delhi,India,Pelham,United States,0.5,0.230769231,0
+6801,Jakarta,Indonesia,Pamarru,India,0.428571429,0.555555556,0
+1878,Mumbai,India,Gumla,India,0.5,1.0,0
+1982,Mumbai,India,Uibai,Brazil,0.5,0.166666667,0
+9730,Bangkok,Thailand,Brandon,United States,0.428571429,0.076923077,0
+9609,Kolkata,India,Consaca,Colombia,0.428571429,0.25,0
+2686,Shanghai,China,Zhuanghe,China,0.5,1.0,0
+8931,Beijing,China,Bedburg,Germany,0.428571429,0.142857143,0
+3459,Dhaka,Bangladesh,Phak Hai,Thailand,0.5,0.2,0
+4542,Jakarta,Indonesia,Itaparica,Brazil,0.444444444,0.111111111,0
+2179,Manila,Philippines,Dangriga,Belize,0.5,0.272727273,0
+4451,Istanbul,Turkey,Castanuelas,Dominican Republic,0.454545455,0.055555556,0
+3860,Moscow,Russia,Monroe,United States,0.5,0.076923077,0
+7624,Manila,Philippines,Barhiya,India,0.428571429,0.090909091,0
+7655,Manila,Philippines,Zamania,India,0.428571429,0.090909091,0
+4520,Jakarta,Indonesia,Manhattan,United States,0.444444444,0.153846154,0
+2518,Manila,Philippines,Manegaon,India,0.5,0.090909091,0
+4837,Guangzhou,China,Jantho,Indonesia,0.444444444,0.222222222,0
+2886,Shanghai,China,Hingham,United States,0.5,0.153846154,0
+7282,Mumbai,India,Buabidi,Panama,0.428571429,0.333333333,0
+6256,Tokyo,Japan,Mogiyon,Tajikistan,0.428571429,0.3,0
+4540,Jakarta,Indonesia,La Huerta,Mexico,0.444444444,0.111111111,0
+5640,Bangkok,Thailand,Bossangoa,Central African Republic,0.444444444,0.166666667,0
+9460,Kolkata,India,Galanta,Slovakia,0.428571429,0.25,0
+3482,Beijing,China,Longjing,China,0.5,1.0,0
+1278,Guangzhou,China,Guangyuan,China,0.555555556,1.0,0
+3147,Cairo,Egypt,Tavros,Greece,0.5,0.0,0
+8263,Cairo,Egypt,Tamorot,Morocco,0.428571429,0.0,0
+3206,Cairo,Egypt,Madira,India,0.5,0.0,0
+9893,Bangkok,Thailand,Baleno,Philippines,0.428571429,0.272727273,0
+2743,Shanghai,China,Sangju,South Korea,0.5,0.181818182,0
+6077,Bangalore,India,San Jose,Uruguay,0.444444444,0.142857143,0
+4048,Karachi,Pakistan,Kamrawan,India,0.5,0.25,0
+5732,Moscow,Russia,Morriston,United Kingdom,0.444444444,0.071428571,0
+2946,Shanghai,China,Chandla,India,0.5,0.2,0
+5791,Istanbul,Turkey,Basmanpur,India,0.444444444,0.0,0
+6795,Jakarta,Indonesia,Kalat,Pakistan,0.428571429,0.111111111,0
+6544,Jakarta,Indonesia,Lahat,Indonesia,0.428571429,1.0,0
+701,Jakarta,Indonesia,Skara,Sweden,0.571428571,0.111111111,0
+3575,Kolkata,India,Kulharia,India,0.5,1.0,0
+7700,Manila,Philippines,Mahitsy,Madagascar,0.428571429,0.0,0
+2516,Manila,Philippines,Bonita,United States,0.5,0.230769231,0
+3001,Shanghai,China,Senanga,Zambia,0.5,0.166666667,0
+5821,Karachi,Pakistan,Dhangadhi,Nepal,0.444444444,0.125,0
+8582,Dhaka,Bangladesh,Mohania,India,0.428571429,0.2,0
+3685,Shenzhen,China,Chengbin,China,0.5,1.0,0
+2996,Shanghai,China,Phak Hai,Thailand,0.5,0.375,0
+4253,Manila,Philippines,Biancavilla,Italy,0.454545455,0.090909091,0
+3412,Dhaka,Bangladesh,Mohana,India,0.5,0.2,0
+7963,Manila,Philippines,Pandino,Italy,0.428571429,0.090909091,0
+6310,Jakarta,Indonesia,Sikar,India,0.428571429,0.555555556,0
+8612,Dhaka,Bangladesh,Dhilwan,India,0.428571429,0.2,0
+5013,Manila,Philippines,Manjanadi,India,0.444444444,0.090909091,0
+7751,Manila,Philippines,Mavalli,India,0.428571429,0.090909091,0
+5980,Bangalore,India,Nellore,India,0.444444444,1.0,0
+4049,Karachi,Pakistan,Karranah,Bahrain,0.5,0.25,0
+4900,Manila,Philippines,Malinalco,Mexico,0.444444444,0.090909091,0
+1319,Manila,Philippines,Manizales,Colombia,0.555555556,0.181818182,0
+9773,Bangkok,Thailand,Basco,Philippines,0.428571429,0.272727273,0
+9138,Kolkata,India,Kaita,Japan,0.428571429,0.0,0
+7143,Jakarta,Indonesia,Nata,Botswana,0.428571429,0.111111111,0
+1898,Mumbai,India,Kumta,India,0.5,1.0,0
+7466,Manila,Philippines,Catalao,Brazil,0.428571429,0.090909091,0
+604,Lagos,Nigeria,Lugus,Philippines,0.6,0.181818182,0
+2847,Shanghai,China,Sanchor,India,0.5,0.2,0
+8208,Cairo,Egypt,Mangrol,India,0.428571429,0.0,0
+394,Beijing,China,Berching,Germany,0.625,0.142857143,0
+4437,Shenzhen,China,Schluchtern,Germany,0.454545455,0.142857143,0
+9448,Kolkata,India,Bolivia,Cuba,0.428571429,0.2,0
+7235,Delhi,India,Bel Air,United States,0.428571429,0.230769231,0
+5399,Sao Paulo,Brazil,San Ramon,Bolivia,0.444444444,0.285714286,0
+96,Dhaka,Bangladesh,Dzhalka,Russia,0.714285714,0.1,0
+1663,Jakarta,Indonesia,Mabaruma,Guyana,0.5,0.222222222,0
+8971,Beijing,China,Darling,South Africa,0.428571429,0.25,0
+5131,Shanghai,China,Yuanchang,Taiwan,0.444444444,0.333333333,0
+1489,Bangalore,India,Tangalla,Sri Lanka,0.555555556,0.111111111,0
+8317,Cairo,Egypt,Calhoun,United States,0.428571429,0.076923077,0
+2708,Shanghai,China,Vaughan,Canada,0.5,0.333333333,0
+1596,Tokyo,Japan,Toyota,Japan,0.5,1.0,0
+9278,Kolkata,India,Kollo,Niger,0.428571429,0.0,0
+2378,Manila,Philippines,Marple,United Kingdom,0.5,0.214285714,0
+5141,Shanghai,China,Chincholi,India,0.444444444,0.2,0
+6148,Bangalore,India,Sangolqui,Ecuador,0.444444444,0.142857143,0
+8242,Cairo,Egypt,Caldono,Colombia,0.428571429,0.0,0
+3949,Lagos,Nigeria,Guayos,Cuba,0.5,0.142857143,0
+3934,Lagos,Nigeria,Burgos,Philippines,0.5,0.181818182,0
+4798,Guangzhou,China,Pahou,Benin,0.444444444,0.2,0
+4373,Mexico City,Mexico,Sun City,United States,0.454545455,0.076923077,0
+9863,Bangkok,Thailand,Barugo,Philippines,0.428571429,0.272727273,0
+8243,Cairo,Egypt,Campina,Romania,0.428571429,0.0,0
+3449,Dhaka,Bangladesh,Akyaka,Turkey,0.5,0.1,0
+2944,Shanghai,China,Dhana,India,0.5,0.2,0
+2466,Manila,Philippines,Matuga,Uganda,0.5,0.090909091,0
+8583,Dhaka,Bangladesh,Itakura,Japan,0.428571429,0.2,0
+5507,Dhaka,Bangladesh,Dharphari,India,0.444444444,0.2,0
+2699,Shanghai,China,Jhansi,India,0.5,0.2,0
+2448,Manila,Philippines,Barnia,India,0.5,0.090909091,0
+20,Shenzhen,China,Shenzhen,China,1.0,1.0,1
+2749,Shanghai,China,Kangar,Malaysia,0.5,0.125,0
+5400,Sao Paulo,Brazil,Sokolo,Mali,0.444444444,0.333333333,0
+8079,Seoul,South Korea,Niebull,Germany,0.428571429,0.0,0
+6872,Jakarta,Indonesia,Samana,Colombia,0.428571429,0.333333333,0
+4709,Guangzhou,China,Panzos,Guatemala,0.444444444,0.111111111,0
+9477,Kolkata,India,Zolote,Ukraine,0.428571429,0.142857143,0
+810,Manila,Philippines,Baniyas,Syria,0.571428571,0.090909091,0
+7478,Manila,Philippines,Lamitan,Philippines,0.428571429,1.0,0
+2274,Manila,Philippines,Tanxia,China,0.5,0.272727273,0
+1924,Mumbai,India,Ozumba,Mexico,0.5,0.166666667,0
+1471,Karachi,Pakistan,Satgachia,India,0.555555556,0.25,0
+7935,Manila,Philippines,Raparla,India,0.428571429,0.090909091,0
+7408,Manila,Philippines,Malatya,Turkey,0.428571429,0.090909091,0
+2407,Manila,Philippines,Senica,Slovakia,0.5,0.090909091,0
+1143,Karachi,Pakistan,Aurahi,India,0.571428571,0.25,0
+1748,Jakarta,Indonesia,Takahama,Japan,0.5,0.111111111,0
+5710,Shenzhen,China,Shchuchyn,Belarus,0.444444444,0.0,0
+4976,Manila,Philippines,Mangualde,Portugal,0.444444444,0.090909091,0
+7301,Mumbai,India,Mawlaik,Myanmar,0.428571429,0.142857143,0
+8149,Cairo,Egypt,Maribor,Slovenia,0.428571429,0.0,0
+2834,Shanghai,China,Sagnay,Philippines,0.5,0.272727273,0
+3132,Cairo,Egypt,Carora,Venezuela,0.5,0.0,0
+1311,Guangzhou,China,Bangzha,China,0.555555556,1.0,0
+8651,Beijing,China,Yibin,China,0.428571429,1.0,0
+6775,Jakarta,Indonesia,Latauna,India,0.428571429,0.555555556,0
+6757,Jakarta,Indonesia,Atkarsk,Russia,0.428571429,0.333333333,0
+621,Lagos,Nigeria,Largs,United Kingdom,0.6,0.214285714,0
+2702,Shanghai,China,Tangail,Bangladesh,0.5,0.1,0
+2200,Manila,Philippines,Tandwa,India,0.5,0.090909091,0
+6197,Bangalore,India,Zargar,Tajikistan,0.444444444,0.2,0
+8825,Beijing,China,Reghin,Romania,0.428571429,0.285714286,0
+1047,Bangkok,Thailand,Bongao,Philippines,0.571428571,0.272727273,0
+5769,Istanbul,Turkey,Ismayilli,Azerbaijan,0.444444444,0.1,0
+9948,Bangkok,Thailand,Rangra,India,0.428571429,0.25,0
+9020,Kolkata,India,Ankara,Turkey,0.428571429,0.0,0
+744,Delhi,India,Adelphi,United States,0.571428571,0.230769231,0
+223,Manila,Philippines,Matala,India,0.666666667,0.090909091,0
+3150,Cairo,Egypt,Vanimo,Papua New Guinea,0.5,0.0,0
+626,Istanbul,Turkey,Estanzuela,Guatemala,0.6,0.222222222,0
+9335,Kolkata,India,Bellaa,Morocco,0.428571429,0.0,0
+7567,Manila,Philippines,Pililla,Philippines,0.428571429,1.0,0
+4583,Jakarta,Indonesia,Jankampet,India,0.444444444,0.555555556,0
+5712,Shenzhen,China,Shangping,China,0.444444444,1.0,0
+3285,Cairo,Egypt,Canton,United States,0.5,0.076923077,0
+7586,Manila,Philippines,Canlaon,Philippines,0.428571429,1.0,0
+9647,Bangkok,Thailand,Ningbo,China,0.428571429,0.375,0
+1531,Sao Paulo,Brazil,Sao Joaquim,Brazil,0.545454545,1.0,0
+9686,Bangkok,Thailand,Canton,United States,0.428571429,0.076923077,0
+354,Shanghai,China,Guanzhai,China,0.625,1.0,0
+2475,Manila,Philippines,Vandalia,United States,0.5,0.230769231,0
+8014,Seoul,South Korea,Sagauli,India,0.428571429,0.090909091,0
+6476,Jakarta,Indonesia,Sanrha,India,0.428571429,0.555555556,0
+6450,Jakarta,Indonesia,Kayanza,Burundi,0.428571429,0.222222222,0
+240,Seoul,South Korea,Gueoul,Senegal,0.666666667,0.090909091,0
+2626,Manila,Philippines,Masandra,Ukraine,0.5,0.272727273,0
+9787,Bangkok,Thailand,Kansk,Russia,0.428571429,0.125,0
+7199,Delhi,India,Nalhati,India,0.428571429,1.0,0
+7693,Manila,Philippines,Majagua,Cuba,0.428571429,0.0,0
+2998,Shanghai,China,Chunakhali,India,0.5,0.2,0
+6441,Jakarta,Indonesia,Jonava,Lithuania,0.428571429,0.222222222,0
+4563,Jakarta,Indonesia,Mackworth,United Kingdom,0.444444444,0.214285714,0
+8615,Dhaka,Bangladesh,Chupaca,Peru,0.428571429,0.1,0
+1480,Bangalore,India,Badalona,Spain,0.555555556,0.2,0
+1019,Kolkata,India,Korkut,Turkey,0.571428571,0.0,0
+3095,Mexico City,Mexico,Kowloon City,Hong Kong,0.5,0.111111111,0
+6183,Bangalore,India,Sagar,India,0.444444444,1.0,0
+4961,Manila,Philippines,Malangawa,Nepal,0.444444444,0.090909091,0
+8493,Dhaka,Bangladesh,Dschang,Cameroon,0.428571429,0.1,0
+1104,Moscow,Russia,Mosjoen,Norway,0.571428571,0.0,0
+6082,Bangalore,India,Ziniare,Burkina Faso,0.444444444,0.166666667,0
+9526,Kolkata,India,Keolari,India,0.428571429,1.0,0
+5191,Shanghai,China,Khandaich,India,0.444444444,0.2,0
+4182,Shanghai,China,Changtoushang,China,0.461538462,1.0,0
+4468,Bangalore,India,Villaflores,Mexico,0.454545455,0.166666667,0
+1627,Tokyo,Japan,Torrox,Spain,0.5,0.4,0
+6718,Jakarta,Indonesia,Babar,Algeria,0.428571429,0.333333333,0
+3799,Moscow,Russia,Morristown,United States,0.5,0.076923077,0
+3054,Seoul,South Korea,Seixal,Portugal,0.5,0.181818182,0
+2868,Shanghai,China,Rangia,India,0.5,0.2,0
+1433,Bangkok,Thailand,Aanekoski,Finland,0.555555556,0.5,0
+7984,Manila,Philippines,Matagua,Cuba,0.428571429,0.0,0
+9347,Kolkata,India,Kayapa,Philippines,0.428571429,0.090909091,0
+9420,Kolkata,India,Kiliia,Ukraine,0.428571429,0.142857143,0
+4077,Karachi,Pakistan,Kuroishi,Japan,0.5,0.375,0
+218,Manila,Philippines,Mangha,China,0.666666667,0.272727273,0
+3556,Kolkata,India,Kilakkarai,India,0.5,1.0,0
+7937,Manila,Philippines,Planura,Brazil,0.428571429,0.090909091,0
+8422,Dhaka,Bangladesh,Boankra,Ghana,0.428571429,0.2,0
+1035,Kolkata,India,Volkach,Germany,0.571428571,0.142857143,0
+3774,Moscow,Russia,Mixco,Guatemala,0.5,0.222222222,0
+4133,Karachi,Pakistan,Magdagachi,Russia,0.5,0.25,0
+2336,Manila,Philippines,Dala,Angola,0.5,0.0,0
+6493,Jakarta,Indonesia,Ankaran,Slovenia,0.428571429,0.444444444,0
+1483,Bangalore,India,Dinapore,India,0.555555556,1.0,0
+907,Dhaka,Bangladesh,Daharia,India,0.571428571,0.2,0
+6089,Bangalore,India,Sanga,Japan,0.444444444,0.0,0
+6467,Jakarta,Indonesia,Jasauli,India,0.428571429,0.555555556,0
+5677,Shenzhen,China,Changchun,China,0.444444444,1.0,0
+2771,Shanghai,China,Dhangaraha,India,0.5,0.2,0
+1806,Delhi,India,Dehiba,Tunisia,0.5,0.428571429,0
+7375,Mumbai,India,Tulbagh,South Africa,0.428571429,0.166666667,0
+2115,Manila,Philippines,Handa,Japan,0.5,0.181818182,0
+4535,Jakarta,Indonesia,Guararema,Brazil,0.444444444,0.111111111,0
+2532,Manila,Philippines,Mahta,India,0.5,0.090909091,0
+8526,Dhaka,Bangladesh,Dhamnod,India,0.428571429,0.2,0
+3471,Dhaka,Bangladesh,Dehiba,Tunisia,0.5,0.1,0
+1403,Sao Paulo,Brazil,San Pedro,Chile,0.555555556,0.166666667,0
+853,Manila,Philippines,Sabnima,India,0.571428571,0.090909091,0
+3083,Seoul,South Korea,Stroud,United Kingdom,0.5,0.214285714,0
+8025,Seoul,South Korea,Sentjur,Slovenia,0.428571429,0.181818182,0
+7566,Manila,Philippines,Catalca,Turkey,0.428571429,0.090909091,0
+5530,Beijing,China,Binningen,Switzerland,0.444444444,0.181818182,0
+7855,Manila,Philippines,Shinile,Ethiopia,0.428571429,0.272727273,0
+4933,Manila,Philippines,Malilipot,Philippines,0.444444444,1.0,0
+5160,Shanghai,China,Channahon,United States,0.444444444,0.153846154,0
+9716,Bangkok,Thailand,Bani,Dominican Republic,0.428571429,0.166666667,0
+3847,Moscow,Russia,Morros,Brazil,0.5,0.166666667,0
+6484,Jakarta,Indonesia,Harua,India,0.428571429,0.555555556,0
+748,Mumbai,India,Mombasa,Kenya,0.571428571,0.2,0
+3035,Sao Paulo,Brazil,San Manuel,Honduras,0.5,0.0,0
+348,Shanghai,China,Mangai,Congo (Kinshasa),0.625,0.25,0
+3352,Dhaka,Bangladesh,Kahama,Tanzania,0.5,0.3,0
+2865,Shanghai,China,Cangas,Spain,0.5,0.2,0
+2168,Manila,Philippines,Arniya,India,0.5,0.090909091,0
+6955,Jakarta,Indonesia,Dakit,Philippines,0.428571429,0.090909091,0
+6210,Bangalore,India,Manakara,Madagascar,0.444444444,0.2,0
+2778,Shanghai,China,Sannat,Malta,0.5,0.2,0
+1442,Shenzhen,China,Shenfield,United Kingdom,0.555555556,0.142857143,0
+5658,Bangkok,Thailand,Balangiga,Philippines,0.444444444,0.272727273,0
+9658,Bangkok,Thailand,Sanzhou,China,0.428571429,0.375,0
+3028,Sao Paulo,Brazil,San Marcos,Guatemala,0.5,0.222222222,0
+6118,Bangalore,India,Longford,Ireland,0.444444444,0.285714286,0
+2484,Manila,Philippines,Rahika,India,0.5,0.090909091,0
+2883,Shanghai,China,Shama,Ghana,0.5,0.6,0
+5562,Beijing,China,Wertingen,Germany,0.444444444,0.142857143,0
+764,Mumbai,India,Mayumba,Gabon,0.571428571,0.0,0
+6482,Jakarta,Indonesia,Manati,Puerto Rico,0.428571429,0.090909091,0
+1617,Tokyo,Japan,Hokuto,Japan,0.5,1.0,0
+1223,Karachi,Pakistan,Karapa,India,0.571428571,0.25,0
+8665,Beijing,China,Laibin,China,0.428571429,1.0,0
+6222,Mexico City,Mexico,Mandaluyong City,Philippines,0.4375,0.090909091,0
+1577,New York,United States,New Corella,Philippines,0.545454545,0.230769231,0
+9392,Kolkata,India,Dolyna,Ukraine,0.428571429,0.142857143,0
+6351,Jakarta,Indonesia,Cazanga,Angola,0.428571429,0.333333333,0
+3783,Moscow,Russia,Macon,United States,0.5,0.076923077,0
+4375,Mexico City,Mexico,Cooper City,United States,0.454545455,0.076923077,0
+709,Jakarta,Indonesia,Iakora,Madagascar,0.571428571,0.3,0
+510,Cairo,Egypt,Coro,Venezuela,0.6,0.0,0
+2955,Shanghai,China,Sagay,Philippines,0.5,0.272727273,0
+7538,Manila,Philippines,Aasiaat,Greenland,0.428571429,0.090909091,0
+6339,Jakarta,Indonesia,Guacara,Venezuela,0.428571429,0.222222222,0
+8923,Beijing,China,Destin,United States,0.428571429,0.153846154,0
+7064,Jakarta,Indonesia,Diavata,Greece,0.428571429,0.111111111,0
+7163,Jakarta,Indonesia,Palana,Russia,0.428571429,0.333333333,0
+7372,Mumbai,India,Tungavi,India,0.428571429,1.0,0
+6829,Jakarta,Indonesia,Makhtal,India,0.428571429,0.555555556,0
+3616,Bangkok,Thailand,Bongabon,Philippines,0.5,0.272727273,0
+4657,Guangzhou,China,Shuanghe,China,0.444444444,1.0,0
+6976,Jakarta,Indonesia,Nartan,Russia,0.428571429,0.333333333,0
+4351,Mexico City,Mexico,Panama City,Panama,0.454545455,0.0,0
+712,Jakarta,Indonesia,Wakasa,Japan,0.571428571,0.111111111,0
+6479,Jakarta,Indonesia,Bararam,India,0.428571429,0.555555556,0
+9130,Kolkata,India,Tonala,Mexico,0.428571429,0.166666667,0
+8205,Cairo,Egypt,Chibuto,Mozambique,0.428571429,0.0,0
+9204,Kolkata,India,Mobara,Japan,0.428571429,0.0,0
+713,Jakarta,Indonesia,Pakra,India,0.571428571,0.555555556,0
+9113,Kolkata,India,Chipata,Zambia,0.428571429,0.333333333,0
+1246,Karachi,Pakistan,Sanchi,India,0.571428571,0.25,0
+9786,Bangkok,Thailand,Rongwo,China,0.428571429,0.375,0
+6849,Jakarta,Indonesia,Marwa,India,0.428571429,0.555555556,0
+5134,Shanghai,China,Shaqlawah,Iraq,0.444444444,0.0,0
+716,Jakarta,Indonesia,Patarra,Costa Rica,0.571428571,0.2,0
+3464,Dhaka,Bangladesh,Mhajar,Morocco,0.5,0.0,0
+4395,Mexico City,Mexico,Baker City,United States,0.454545455,0.076923077,0
+4569,Jakarta,Indonesia,Papampeta,India,0.444444444,0.555555556,0
+8804,Beijing,China,Delijan,Iran,0.428571429,0.2,0
+8490,Dhaka,Bangladesh,Dhoraji,India,0.428571429,0.2,0
+7702,Manila,Philippines,Lanling,China,0.428571429,0.272727273,0
+213,Manila,Philippines,Mantua,United States,0.666666667,0.230769231,0
+9768,Bangkok,Thailand,Bandwar,India,0.428571429,0.25,0
+6839,Jakarta,Indonesia,Vazante,Brazil,0.428571429,0.111111111,0
+1011,Kolkata,India,Nogata,Japan,0.571428571,0.0,0
+324,Shanghai,China,Changsha,China,0.625,1.0,0
+5397,Sao Paulo,Brazil,Gaoual,Guinea,0.444444444,0.0,0
+5991,Bangalore,India,Tangdong,China,0.444444444,0.2,0
+3173,Cairo,Egypt,Trairi,Brazil,0.5,0.0,0
+335,Shanghai,China,Sangli,India,0.625,0.2,0
+8306,Cairo,Egypt,Kushiro,Japan,0.428571429,0.0,0
+2211,Manila,Philippines,Madera,United States,0.5,0.230769231,0
+4272,Shanghai,China,Xiangkhoang,Laos,0.454545455,0.0,0
+6741,Jakarta,Indonesia,Okuta,Nigeria,0.428571429,0.333333333,0
+234,Shanghai,China,Sitangkai,Philippines,0.666666667,0.272727273,0
+5951,Bangalore,India,Rangoon,Myanmar,0.444444444,0.142857143,0
+5738,Moscow,Russia,Johnstown,United States,0.444444444,0.076923077,0
+7922,Manila,Philippines,Mandrem,India,0.428571429,0.090909091,0
+2349,Manila,Philippines,Mahaplag,Philippines,0.5,1.0,0
+2037,Manila,Philippines,Merida,Mexico,0.5,0.090909091,0
+7485,Manila,Philippines,Loznica,Serbia,0.428571429,0.090909091,0
+6007,Bangalore,India,Waitakere,New Zealand,0.444444444,0.090909091,0
+4554,Jakarta,Indonesia,Jaguaripe,Brazil,0.444444444,0.111111111,0
+8073,Seoul,South Korea,Sahsaul,India,0.428571429,0.090909091,0
+1459,Karachi,Pakistan,Paracambi,Brazil,0.555555556,0.125,0
+3289,Cairo,Egypt,Hamira,India,0.5,0.0,0
+3065,Seoul,South Korea,Skopun,Faroe Islands,0.5,0.076923077,0
+9437,Kolkata,India,Malhada,Brazil,0.428571429,0.166666667,0
+775,Manila,Philippines,Jandira,Brazil,0.571428571,0.090909091,0
+6833,Jakarta,Indonesia,Cabra,Spain,0.428571429,0.111111111,0
+872,Seoul,South Korea,Seymour,Australia,0.571428571,0.181818182,0
+8750,Beijing,China,Betio,Kiribati,0.428571429,0.25,0
+1264,Guangzhou,China,Luzhou,China,0.555555556,1.0,0
+4834,Guangzhou,China,Guajeru,Brazil,0.444444444,0.0,0
+3895,Lagos,Nigeria,Burgos,Spain,0.5,0.142857143,0
+6324,Jakarta,Indonesia,Bata,Equatorial Guinea,0.428571429,0.176470588,0
+9213,Kolkata,India,Kasama,Japan,0.428571429,0.0,0
+7020,Jakarta,Indonesia,Darwa,India,0.428571429,0.555555556,0
+1221,Karachi,Pakistan,Sapahi,India,0.571428571,0.25,0
+1447,Karachi,Pakistan,Kurashiki,Japan,0.555555556,0.375,0
+3185,Cairo,Egypt,Cativa,Panama,0.5,0.0,0
+409,Shenzhen,China,Grenchen,Switzerland,0.625,0.181818182,0
+4345,Sao Paulo,Brazil,San Ignacio,Honduras,0.454545455,0.0,0
+3022,Sao Paulo,Brazil,San Marino,San Marino,0.5,0.2,0
+2304,Manila,Philippines,Barira,Philippines,0.5,1.0,0
+6272,Tokyo,Japan,Vysokyi,Ukraine,0.428571429,0.285714286,0
+8281,Cairo,Egypt,Calbiga,Philippines,0.428571429,0.090909091,0
+6642,Jakarta,Indonesia,Raalte,Netherlands,0.428571429,0.090909091,0
+6956,Jakarta,Indonesia,Haaren,Germany,0.428571429,0.0,0
+2110,Manila,Philippines,Monza,Italy,0.5,0.090909091,0
+5352,Sao Paulo,Brazil,Sihaul,India,0.444444444,0.166666667,0
+9684,Bangkok,Thailand,Yangsan,South Korea,0.428571429,0.090909091,0
+8344,Cairo,Egypt,Taiyong,China,0.428571429,0.0,0
+4550,Jakarta,Indonesia,Dhansaria,India,0.444444444,0.555555556,0
+1881,Mumbai,India,Kambam,India,0.5,1.0,0
+5946,Karachi,Pakistan,Kharsawan,India,0.444444444,0.25,0
+1738,Jakarta,Indonesia,Fagersta,Sweden,0.5,0.111111111,0
+7794,Manila,Philippines,Mensora,Morocco,0.428571429,0.0,0
+5213,Sao Paulo,Brazil,Saltillo,Mexico,0.444444444,0.0,0
+3209,Cairo,Egypt,Cajuru,Brazil,0.5,0.0,0
+7083,Jakarta,Indonesia,Palatka,United States,0.428571429,0.153846154,0
+2056,Manila,Philippines,Mahilyow,Belarus,0.5,0.181818182,0
+1689,Jakarta,Indonesia,Nagarote,Nicaragua,0.5,0.111111111,0
+4780,Guangzhou,China,Mangrol,India,0.444444444,0.2,0
+7476,Manila,Philippines,Mositai,China,0.428571429,0.272727273,0
+7877,Manila,Philippines,Nkheila,Morocco,0.428571429,0.0,0
+6750,Jakarta,Indonesia,Prata,Brazil,0.428571429,0.111111111,0
+8556,Dhaka,Bangladesh,Sidhapa,India,0.428571429,0.2,0
+8123,Cairo,Egypt,Capiata,Paraguay,0.428571429,0.125,0
+6991,Jakarta,Indonesia,Dinara,India,0.428571429,0.555555556,0
+8267,Cairo,Egypt,Clayton,United States,0.428571429,0.076923077,0
+8540,Dhaka,Bangladesh,Khalari,India,0.428571429,0.2,0
+3393,Dhaka,Bangladesh,Daheba,China,0.5,0.1,0
+6326,Jakarta,Indonesia,Kalar,Iraq,0.428571429,0.111111111,0
+3529,Beijing,China,Bilibino,Russia,0.5,0.166666667,0
+4605,Guangzhou,China,Bangkok,Thailand,0.444444444,0.375,0
+7024,Jakarta,Indonesia,Kamiita,Japan,0.428571429,0.111111111,0
+6322,Jakarta,Indonesia,Maraba,Brazil,0.428571429,0.111111111,0
+746,Delhi,India,Kelheim,Germany,0.571428571,0.142857143,0
+711,Jakarta,Indonesia,Jacarau,Brazil,0.571428571,0.111111111,0
+380,New York,United States,Newark,United States,0.625,1.0,0
+8783,Beijing,China,Yinying,China,0.428571429,1.0,0
+3012,Shanghai,China,Chalgeri,India,0.5,0.2,0
+8859,Beijing,China,Xinxing,China,0.428571429,1.0,0
+7153,Jakarta,Indonesia,Zavora,Mozambique,0.428571429,0.0,0
+8567,Dhaka,Bangladesh,Chandia,India,0.428571429,0.2,0
+3498,Beijing,China,Bertioga,Brazil,0.5,0.0,0
+3890,Lagos,Nigeria,Canoas,Brazil,0.5,0.142857143,0
+4485,Jakarta,Indonesia,Banikoara,Benin,0.444444444,0.222222222,0
+4012,Istanbul,Turkey,Itano,Japan,0.5,0.0,0
+2620,Manila,Philippines,Madaya,Syria,0.5,0.090909091,0
+6671,Jakarta,Indonesia,Baragua,Cuba,0.428571429,0.111111111,0
+6513,Jakarta,Indonesia,Mihara,Japan,0.428571429,0.111111111,0
+3468,Dhaka,Bangladesh,Chamba,Ghana,0.5,0.2,0
+1314,Guangzhou,China,Luzhou,China,0.555555556,1.0,0
+8606,Dhaka,Bangladesh,Talakad,India,0.428571429,0.2,0
+2070,Manila,Philippines,Man,CÃ´te d'Ivoire,0.5,0.076923077,0
+2983,Shanghai,China,Chatham,United States,0.5,0.153846154,0
+5915,Karachi,Pakistan,Kamargani,India,0.444444444,0.25,0
+9171,Kolkata,India,Kuldiga,Latvia,0.428571429,0.333333333,0
+1286,Guangzhou,China,Quzhou,China,0.555555556,1.0,0
+8991,Beijing,China,Belmont,United States,0.428571429,0.153846154,0
+8430,Dhaka,Bangladesh,Pokhara,Nepal,0.428571429,0.1,0
+1350,Shanghai,China,Changbang,China,0.555555556,1.0,0
+2612,Manila,Philippines,Coapilla,Mexico,0.5,0.090909091,0
+9495,Kolkata,India,Zelzate,Belgium,0.428571429,0.142857143,0
+3669,Shenzhen,China,Shacheng,China,0.5,1.0,0
+2222,Manila,Philippines,Pila,Poland,0.5,0.272727273,0
+428,Karachi,Pakistan,Kasaishi,Japan,0.625,0.375,0
+654,Jakarta,Indonesia,Takaoka,Japan,0.571428571,0.111111111,0
+9914,Bangkok,Thailand,Pangil,Philippines,0.428571429,0.272727273,0
+3536,Kolkata,India,Toyokawa,Japan,0.5,0.0,0
+7737,Manila,Philippines,Mangrol,India,0.428571429,0.090909091,0
+3246,Cairo,Egypt,Retiro,Colombia,0.5,0.0,0
+4741,Guangzhou,China,Guane,Cuba,0.444444444,0.4,0
+9069,Kolkata,India,Jalapa,Guatemala,0.428571429,0.111111111,0
+4100,Karachi,Pakistan,Qal'acha,Tajikistan,0.5,0.7,0
+4101,Karachi,Pakistan,Kara-Suu,Kyrgyzstan,0.5,0.4,0
+6960,Jakarta,Indonesia,Patate,Ecuador,0.428571429,0.0,0
+612,Lagos,Nigeria,Bagou,Benin,0.6,0.285714286,0
+4289,Shanghai,China,Zhangshicun,China,0.454545455,1.0,0
+8571,Dhaka,Bangladesh,Dhulkot,India,0.428571429,0.2,0
+9713,Bangkok,Thailand,Danzao,China,0.428571429,0.375,0
+1544,Mexico City,Mexico,Roxas City,Philippines,0.545454545,0.090909091,0
+9536,Kolkata,India,Kiato,Greece,0.428571429,0.0,0
+3854,Moscow,Russia,Monroe,United States,0.5,0.076923077,0
+555,Dhaka,Bangladesh,Asaka,Japan,0.6,0.2,0
+6366,Jakarta,Indonesia,Bankura,India,0.428571429,0.555555556,0
+512,Cairo,Egypt,Isiro,Congo (Kinshasa),0.6,0.0625,0
+3207,Cairo,Egypt,Araira,Venezuela,0.5,0.0,0
+8085,Seoul,South Korea,Selfoss,Iceland,0.428571429,0.0,0
+968,Beijing,China,Berlin,United States,0.571428571,0.153846154,0
+6044,Bangalore,India,Tatalon,Philippines,0.444444444,0.090909091,0
+6880,Jakarta,Indonesia,Garagoa,Colombia,0.428571429,0.333333333,0
+6776,Jakarta,Indonesia,Mahaiza,Madagascar,0.428571429,0.3,0
+3296,Cairo,Egypt,Caputira,Brazil,0.5,0.0,0
+8702,Beijing,China,Beni,Congo (Kinshasa),0.428571429,0.25,0
+3430,Dhaka,Bangladesh,Khagra,India,0.5,0.2,0
+8871,Beijing,China,Beaune,France,0.428571429,0.166666667,0
+6963,Jakarta,Indonesia,Pathra,India,0.428571429,0.555555556,0
+2089,Manila,Philippines,Minbya,Myanmar,0.5,0.0,0
+8500,Dhaka,Bangladesh,Nkawkaw,Ghana,0.428571429,0.2,0
+6163,Bangalore,India,Nanpara,India,0.444444444,1.0,0
+3211,Cairo,Egypt,Raisio,Finland,0.5,0.0,0
+9201,Kolkata,India,Kairana,India,0.428571429,1.0,0
+6606,Jakarta,Indonesia,Labrea,Brazil,0.428571429,0.111111111,0
+1110,Lagos,Nigeria,Hagfors,Sweden,0.571428571,0.142857143,0
+5729,Shenzhen,China,Hughenden,Australia,0.444444444,0.111111111,0
+7830,Manila,Philippines,Gaundra,India,0.428571429,0.090909091,0
+1039,Bangkok,Thailand,Yingkou,China,0.571428571,0.375,0
+1195,Karachi,Pakistan,Barari,India,0.571428571,0.25,0
+4475,Tokyo,Japan,Tonekabon,Iran,0.444444444,0.4,0
+9875,Bangkok,Thailand,Mangur,India,0.428571429,0.25,0
+2123,Manila,Philippines,Kailua,United States,0.5,0.230769231,0
+4983,Manila,Philippines,Maroaloka,Madagascar,0.444444444,0.0,0
+8974,Beijing,China,Corning,United States,0.428571429,0.153846154,0
+5701,Shenzhen,China,Zhongzhai,China,0.444444444,1.0,0
+935,Beijing,China,Ruiming,China,0.571428571,1.0,0
+6102,Bangalore,India,Lagawe,Philippines,0.444444444,0.090909091,0
+4690,Guangzhou,China,Guaynabo,Puerto Rico,0.444444444,0.090909091,0
+395,Kolkata,India,Kalamata,Greece,0.625,0.0,0
+4686,Guangzhou,China,Mungo,Angola,0.444444444,0.166666667,0
+8777,Beijing,China,Shiji,China,0.428571429,1.0,0
+9166,Kolkata,India,Sohana,India,0.428571429,1.0,0
+5981,Bangalore,India,Nangong,China,0.444444444,0.2,0
+9943,Bangkok,Thailand,Barro,Brazil,0.428571429,0.25,0
+2192,Manila,Philippines,Kanal,Slovenia,0.5,0.181818182,0
+1298,Guangzhou,China,Huozhou,China,0.555555556,1.0,0
+5045,Manila,Philippines,Indianola,United States,0.444444444,0.230769231,0
+1163,Karachi,Pakistan,Sarakhs,Iran,0.571428571,0.25,0
+4255,Manila,Philippines,Mangalvedha,India,0.454545455,0.090909091,0
+6373,Jakarta,Indonesia,Ibarra,Ecuador,0.428571429,0.0,0
+1528,Sao Paulo,Brazil,San Pascual,Philippines,0.545454545,0.090909091,0
+4343,Sao Paulo,Brazil,San Calixto,Colombia,0.454545455,0.125,0
+2031,Manila,Philippines,Mbandaka,Congo (Kinshasa),0.5,0.1875,0
+3061,Seoul,South Korea,Seonar,India,0.5,0.090909091,0
+59,Shanghai,China,Shangshan,China,0.777777778,1.0,0
+2406,Manila,Philippines,Medina,Brazil,0.5,0.090909091,0
+5007,Manila,Philippines,Granville,France,0.444444444,0.090909091,0
+6158,Bangalore,India,Tanabe,Japan,0.444444444,0.0,0
+7376,Mumbai,India,Karumba,Australia,0.428571429,0.222222222,0
+4507,Jakarta,Indonesia,Kavaratti,India,0.444444444,0.555555556,0
+5215,Sao Paulo,Brazil,Barnaul,Russia,0.444444444,0.166666667,0
+6030,Bangalore,India,Tabarre,Haiti,0.444444444,0.0,0
+1781,Delhi,India,Melnik,Czechia,0.5,0.285714286,0
+5448,Cairo,Egypt,Carterton,United Kingdom,0.444444444,0.071428571,0
+4607,Guangzhou,China,Shangrao,China,0.444444444,1.0,0
+6915,Jakarta,Indonesia,Santa,Philippines,0.428571429,0.090909091,0
+677,Jakarta,Indonesia,Tahara,Japan,0.571428571,0.111111111,0
+3583,Kolkata,India,Kawamata,Japan,0.5,0.0,0
+3654,Shenzhen,China,Sizhan,China,0.5,1.0,0
+7921,Manila,Philippines,Canelli,Italy,0.428571429,0.090909091,0
+9500,Kolkata,India,Kalavai,India,0.428571429,1.0,0
+2733,Shanghai,China,Palghat,India,0.5,0.2,0
+4788,Guangzhou,China,Shongzhy,Kazakhstan,0.444444444,0.2,0
+2755,Shanghai,China,Saranga,India,0.5,0.2,0
+2338,Manila,Philippines,Manjo,Cameroon,0.5,0.090909091,0
+3644,Shenzhen,China,Shenyang,China,0.5,1.0,0
+7738,Manila,Philippines,Mazagao,Brazil,0.428571429,0.090909091,0
+5517,Dhaka,Bangladesh,Chaplynka,Ukraine,0.444444444,0.1,0
+5247,Sao Paulo,Brazil,Santiago,Panama,0.444444444,0.0,0
+867,Seoul,South Korea,Seguela,CÃ´te d'Ivoire,0.571428571,0.230769231,0
+4448,Istanbul,Turkey,Spartanburg,United States,0.454545455,0.076923077,0
+5072,Shanghai,China,Shouguang,China,0.444444444,1.0,0
+4882,Manila,Philippines,Jaranwala,Pakistan,0.444444444,0.272727273,0
+9511,Kolkata,India,Jilava,Romania,0.428571429,0.285714286,0
+3003,Shanghai,China,Tha Mai,Thailand,0.5,0.375,0
+2226,Manila,Philippines,Eniwa,Japan,0.5,0.181818182,0
+9057,Kolkata,India,Sakaka,Saudi Arabia,0.428571429,0.25,0
+4827,Guangzhou,China,Mungod,India,0.444444444,0.2,0
+7622,Manila,Philippines,Sevilla,Colombia,0.428571429,0.181818182,0
+9690,Bangkok,Thailand,Kanggye,North Korea,0.428571429,0.090909091,0
+5501,Dhaka,Bangladesh,Charkhari,India,0.444444444,0.2,0
+9701,Bangkok,Thailand,Kankan,Guinea,0.428571429,0.125,0
+8479,Dhaka,Bangladesh,Balakan,Azerbaijan,0.428571429,0.1,0
+5503,Dhaka,Bangladesh,Ghatkesar,India,0.444444444,0.2,0
+1211,Karachi,Pakistan,Karagwe,Uganda,0.571428571,0.125,0
+9084,Kolkata,India,Kuwana,Japan,0.428571429,0.0,0
+2289,Manila,Philippines,Rajula,India,0.5,0.090909091,0
+2184,Manila,Philippines,Ranillug,Kosovo,0.5,0.0,0
+2863,Shanghai,China,Shahganj,India,0.5,0.2,0
+6862,Jakarta,Indonesia,Tavares,United States,0.428571429,0.153846154,0
+2363,Manila,Philippines,Pangil,Philippines,0.5,1.0,0
+8464,Dhaka,Bangladesh,Zgharta,Lebanon,0.428571429,0.1,0
+6333,Jakarta,Indonesia,Hobart,Australia,0.428571429,0.222222222,0
+4065,Karachi,Pakistan,Xihuachi,China,0.5,0.25,0
+9547,Kolkata,India,Kataha,India,0.428571429,1.0,0
+618,Lagos,Nigeria,Sagon,Benin,0.6,0.285714286,0
+3282,Cairo,Egypt,Vaiano,Italy,0.5,0.0,0
+5227,Sao Paulo,Brazil,San Luis,Argentina,0.444444444,0.222222222,0
+3398,Dhaka,Bangladesh,Behara,Madagascar,0.5,0.2,0
+3066,Seoul,South Korea,Sefrou,Morocco,0.5,0.181818182,0
+767,Manila,Philippines,Machida,Japan,0.571428571,0.181818182,0
+7079,Jakarta,Indonesia,Bajwara,India,0.428571429,0.555555556,0
+5280,Sao Paulo,Brazil,Solano,Philippines,0.444444444,0.090909091,0
+4150,Karachi,Pakistan,Kharagbani,India,0.5,0.25,0
+1145,Karachi,Pakistan,Karuzi,Burundi,0.571428571,0.0,0
+4249,Manila,Philippines,San Nicolas,Philippines,0.454545455,1.0,0
+4111,Karachi,Pakistan,Jacaraci,Brazil,0.5,0.125,0
+463,Jakarta,Indonesia,Yogyakarta,Indonesia,0.6,1.0,0
+2933,Shanghai,China,Santa,Philippines,0.5,0.272727273,0
+4624,Guangzhou,China,Hezhou,China,0.444444444,1.0,0
+3814,Moscow,Russia,Monroe,United States,0.5,0.076923077,0
+6309,Jakarta,Indonesia,Pokhara,Nepal,0.428571429,0.111111111,0
+4342,Sao Paulo,Brazil,Ban Pa Hung,Thailand,0.454545455,0.25,0
+5301,Sao Paulo,Brazil,San Luis,Philippines,0.444444444,0.090909091,0
+6805,Jakarta,Indonesia,Malaba,Uganda,0.428571429,0.222222222,0
+3283,Cairo,Egypt,Capriolo,Italy,0.5,0.0,0
+2575,Manila,Philippines,Hansa,India,0.5,0.090909091,0
+7962,Manila,Philippines,Farsala,Greece,0.428571429,0.090909091,0
+7880,Manila,Philippines,Nariman,Kyrgyzstan,0.428571429,0.0,0
+829,Manila,Philippines,Mandawa,India,0.571428571,0.090909091,0
+6487,Jakarta,Indonesia,Siparia,Trinidad and Tobago,0.428571429,0.210526316,0
+7600,Manila,Philippines,Palpala,Argentina,0.428571429,0.181818182,0
+2541,Manila,Philippines,Doranala,India,0.5,0.090909091,0
+5747,Buenos Aires,Argentina,Paso de los Libres,Argentina,0.444444444,1.0,0
+8527,Dhaka,Bangladesh,Zhanjia,China,0.428571429,0.1,0
+9567,Kolkata,India,Sotkamo,Finland,0.428571429,0.142857143,0
+3743,Shenzhen,China,Cheney,United States,0.5,0.153846154,0
+7499,Manila,Philippines,Massama,Portugal,0.428571429,0.090909091,0
+3525,Beijing,China,Jennings,United States,0.5,0.153846154,0
+21,Moscow,Russia,Moscow,Russia,1.0,1.0,1
+1916,Mumbai,India,Zumbo,Mozambique,0.5,0.1,0
+6572,Jakarta,Indonesia,Sara,Philippines,0.428571429,0.090909091,0
+9019,Kolkata,India,Douala,Cameroon,0.428571429,0.0,0
+2013,Mumbai,India,Moba,Congo (Kinshasa),0.5,0.1875,0
+5406,Sao Paulo,Brazil,Sohano,Papua New Guinea,0.444444444,0.125,0
+1296,Guangzhou,China,Guangming,China,0.555555556,1.0,0
+3746,Shenzhen,China,Sinzheim,Germany,0.5,0.142857143,0
+592,Lagos,Nigeria,Labo,Philippines,0.6,0.181818182,0
+1407,Beijing,China,Zhenjiang,China,0.555555556,1.0,0
+222,Manila,Philippines,Mandra,Greece,0.666666667,0.090909091,0
+5618,Kolkata,India,Polistena,Italy,0.444444444,0.2,0
+6249,Tokyo,Japan,Teykovo,Russia,0.428571429,0.0,0
+4419,Kolkata,India,Nahorkatiya,India,0.454545455,1.0,0
+859,Manila,Philippines,Tanaina,United States,0.571428571,0.230769231,0
+1784,Delhi,India,Delran,United States,0.5,0.230769231,0
+7260,Mumbai,India,Imabari,Japan,0.428571429,0.0,0
+6857,Jakarta,Indonesia,Tata,Morocco,0.428571429,0.111111111,0
+1955,Mumbai,India,Bibai,Japan,0.5,0.0,0
+1747,Jakarta,Indonesia,Valkurti,India,0.5,0.555555556,0
+3133,Cairo,Egypt,Calasiao,Philippines,0.5,0.090909091,0
+8037,Seoul,South Korea,Sevilla,Colombia,0.428571429,0.181818182,0
+8851,Beijing,China,Haoping,China,0.428571429,1.0,0
+995,Kolkata,India,Kolda,Senegal,0.571428571,0.285714286,0
+6109,Bangalore,India,Billere,France,0.444444444,0.0,0
+731,Jakarta,Indonesia,Makariv,Ukraine,0.571428571,0.111111111,0
+6975,Jakarta,Indonesia,Bachra,India,0.428571429,0.555555556,0
+6274,Tokyo,Japan,Toconao,Chile,0.428571429,0.0,0
+6752,Jakarta,Indonesia,Mimata,Japan,0.428571429,0.111111111,0
+3510,Beijing,China,Beixinzhuang,China,0.5,1.0,0
+3534,Kolkata,India,Hirakata,Japan,0.5,0.0,0
+2514,Manila,Philippines,Mirabela,Brazil,0.5,0.090909091,0
+5437,Cairo,Egypt,Cueramaro,Mexico,0.444444444,0.0,0
+3626,Bangkok,Thailand,Ban Song,Thailand,0.5,1.0,0
+466,Delhi,India,Hechi,China,0.6,0.2,0
+6756,Jakarta,Indonesia,Baar,Switzerland,0.428571429,0.181818182,0
+6760,Jakarta,Indonesia,Radauti,Romania,0.428571429,0.333333333,0
+7992,Shanghai,China,Zhangjiazhuang,China,0.428571429,1.0,0
+158,Mumbai,India,Mubi,Nigeria,0.666666667,0.285714286,0
+3961,Lagos,Nigeria,Labhgaon,India,0.5,0.285714286,0
+8833,Beijing,China,Maguing,Philippines,0.428571429,0.272727273,0
+5471,New York,United States,West Park,United States,0.444444444,1.0,0
+186,Manila,Philippines,Babila,Syria,0.666666667,0.090909091,0
+1003,Kolkata,India,Bolama,Guinea-Bissau,0.571428571,0.230769231,0
+9509,Kolkata,India,Kisara,India,0.428571429,1.0,0
+5624,Kolkata,India,Dolianova,Italy,0.444444444,0.2,0
+401,Kolkata,India,Kolkwitz,Germany,0.625,0.142857143,0
+6241,Tokyo,Japan,Tomioka,Japan,0.428571429,1.0,0
+8941,Beijing,China,Roding,Germany,0.428571429,0.142857143,0
+9933,Bangkok,Thailand,Manghit,Uzbekistan,0.428571429,0.2,0
+7343,Mumbai,India,Cambuci,Brazil,0.428571429,0.166666667,0
+9833,Bangkok,Thailand,Farajok,South Sudan,0.428571429,0.181818182,0
+8467,Dhaka,Bangladesh,Gerakas,Greece,0.428571429,0.1,0
+8757,Beijing,China,Bodmin,United Kingdom,0.428571429,0.142857143,0
+7959,Manila,Philippines,Ganaram,India,0.428571429,0.090909091,0
+1251,Jakarta,Indonesia,Jamikunta,India,0.555555556,0.555555556,0
+3144,Cairo,Egypt,Taibao,Taiwan,0.5,0.0,0
+7431,Manila,Philippines,Granada,Spain,0.428571429,0.272727273,0
+60,Sao Paulo,Brazil,San Pablo,Philippines,0.777777778,0.090909091,0
+7856,Manila,Philippines,Saraiya,India,0.428571429,0.090909091,0
+1114,Karachi,Pakistan,Ranchi,India,0.571428571,0.25,0
+3058,Seoul,South Korea,Meoqui,Mexico,0.5,0.090909091,0
+9570,Kolkata,India,Jogiara,India,0.428571429,1.0,0
+1329,Manila,Philippines,Mansfield,United States,0.555555556,0.230769231,0
+4996,Manila,Philippines,Manompana,Madagascar,0.444444444,0.0,0
+6683,Jakarta,Indonesia,Yaita,Japan,0.428571429,0.111111111,0
+2073,Manila,Philippines,Banfield,Argentina,0.5,0.181818182,0
+4794,Guangzhou,China,Gangoli,India,0.444444444,0.2,0
+6830,Jakarta,Indonesia,Sakae,Japan,0.428571429,0.111111111,0
+9630,Kolkata,India,Kalyan,India,0.428571429,1.0,0
+8219,Cairo,Egypt,Malinao,Philippines,0.428571429,0.090909091,0
+7568,Manila,Philippines,La Lima,Honduras,0.428571429,0.090909091,0
+5923,Karachi,Pakistan,Kharahara,India,0.444444444,0.25,0
+1551,Mexico City,Mexico,Cestos City,Liberia,0.545454545,0.142857143,0
+1010,Kolkata,India,Coroata,Brazil,0.571428571,0.166666667,0
+3756,Shenzhen,China,Aerzen,Germany,0.5,0.142857143,0
+8682,Beijing,China,Yiyang,China,0.428571429,1.0,0
+9343,Kolkata,India,Talaja,India,0.428571429,1.0,0
+8010,Seoul,South Korea,Duekoue,CÃ´te d'Ivoire,0.428571429,0.230769231,0
+3861,Moscow,Russia,Robstown,United States,0.5,0.076923077,0
+3149,Cairo,Egypt,Caldicot,United Kingdom,0.5,0.071428571,0
+2520,Manila,Philippines,Malar,India,0.5,0.090909091,0
+3128,Cairo,Egypt,Curico,Chile,0.5,0.0,0
+9085,Kolkata,India,Koga,Japan,0.428571429,0.0,0
+5317,Sao Paulo,Brazil,Sanaur,India,0.444444444,0.166666667,0
+1196,Karachi,Pakistan,Anpachi,Japan,0.571428571,0.375,0
+9051,Kolkata,India,Juliaca,Peru,0.428571429,0.0,0
+880,Cairo,Egypt,Camargo,Mexico,0.571428571,0.0,0
+6990,Jakarta,Indonesia,Kanra,Japan,0.428571429,0.111111111,0
+2488,Manila,Philippines,Lala,India,0.5,0.090909091,0
+2841,Shanghai,China,Spanaway,United States,0.5,0.153846154,0
+4330,Sao Paulo,Brazil,San Jacinto,Philippines,0.454545455,0.090909091,0
+2931,Shanghai,China,Sanyi,Taiwan,0.5,0.333333333,0
+6425,Jakarta,Indonesia,Zagora,Morocco,0.428571429,0.111111111,0
+2486,Manila,Philippines,Minignan,CÃ´te d'Ivoire,0.5,0.076923077,0
+5748,Buenos Aires,Argentina,Junin de los Andes,Argentina,0.444444444,1.0,0
+884,Cairo,Egypt,Cassino,Italy,0.571428571,0.0,0
+4915,Manila,Philippines,Wandiwash,India,0.444444444,0.090909091,0
+6211,Bangalore,India,Mandaon,Philippines,0.444444444,0.090909091,0
+9579,Kolkata,India,Tovala,India,0.428571429,1.0,0
+212,Manila,Philippines,Manjil,Iran,0.666666667,0.090909091,0
+2276,Manila,Philippines,Matiguas,Nicaragua,0.5,0.090909091,0
+2329,Manila,Philippines,Marigliano,Italy,0.5,0.090909091,0
+4951,Manila,Philippines,Catandica,Mozambique,0.444444444,0.090909091,0
+3320,New York,United States,Newberry,United States,0.5,1.0,0
+9835,Bangkok,Thailand,Bacolor,Philippines,0.428571429,0.272727273,0
+4608,Guangzhou,China,Huanggang,China,0.444444444,1.0,0
+1439,Shenzhen,China,Shangshan,China,0.555555556,1.0,0
+468,Delhi,India,Dehui,China,0.6,0.2,0
+5467,New York,United States,New Delhi,India,0.444444444,0.230769231,0
+3330,New York,United States,Red Hook,United States,0.5,1.0,0
+5829,Karachi,Pakistan,Paraguari,Paraguay,0.444444444,0.375,0
+8608,Dhaka,Bangladesh,Atharga,India,0.428571429,0.2,0
+697,Jakarta,Indonesia,Pajara,Spain,0.571428571,0.111111111,0
+7268,Mumbai,India,Roubaix,France,0.428571429,0.0,0
+9145,Kolkata,India,Kerkyra,Greece,0.428571429,0.0,0
+8181,Cairo,Egypt,Cocieri,Moldova,0.428571429,0.0,0
+9939,Bangkok,Thailand,Banapur,India,0.428571429,0.25,0
+1315,Guangzhou,China,Kuangfu,Taiwan,0.555555556,0.333333333,0
+2302,Manila,Philippines,Danihe,China,0.5,0.272727273,0
+2040,Manila,Philippines,Mwanza,Tanzania,0.5,0.090909091,0
+7109,Jakarta,Indonesia,Varna,Russia,0.428571429,0.333333333,0
+3667,Shenzhen,China,Menemen,Turkey,0.5,0.0,0
+915,Dhaka,Bangladesh,Khakhar,Russia,0.571428571,0.1,0
+13,Cairo,Egypt,Cairo,United States,1.0,0.076923077,0
+8584,Dhaka,Bangladesh,Chatham,United States,0.428571429,0.153846154,0
+6428,Jakarta,Indonesia,Cabaret,Haiti,0.428571429,0.111111111,0
+1537,Mexico City,Mexico,Cebu City,Philippines,0.545454545,0.090909091,0
+737,Jakarta,Indonesia,Ramara,Canada,0.571428571,0.222222222,0
+8202,Cairo,Egypt,Jagraon,India,0.428571429,0.0,0
+8653,Beijing,China,Yiyang,China,0.428571429,1.0,0
+454,Tokyo,Japan,Toro,Colombia,0.6,0.0,0
+4346,Sao Paulo,Brazil,San Ignacio,El Salvador,0.454545455,0.090909091,0
+928,Beijing,China,Guiping,China,0.571428571,1.0,0
+6292,Jakarta,Indonesia,Cankaya,Turkey,0.428571429,0.111111111,0
+8282,Cairo,Egypt,Nyakrom,Ghana,0.428571429,0.0,0
+8723,Beijing,China,Xiaping,China,0.428571429,1.0,0
+6474,Jakarta,Indonesia,Mahamda,India,0.428571429,0.555555556,0
+38,Manila,Philippines,Maniwa,Japan,0.833333333,0.181818182,0
+5771,Istanbul,Turkey,Bulambuli,Uganda,0.444444444,0.0,0
+2555,Manila,Philippines,Mali,India,0.5,0.090909091,0
+7633,Manila,Philippines,Maintal,Germany,0.428571429,0.090909091,0
+9999,Bangkok,Thailand,Basaon,India,0.428571429,0.25,0
+6621,Jakarta,Indonesia,Jaito,India,0.428571429,0.555555556,0
+941,Beijing,China,Dexing,China,0.571428571,1.0,0
+7399,Manila,Philippines,Nampula,Mozambique,0.428571429,0.090909091,0
+6129,Bangalore,India,Kingsport,United States,0.444444444,0.230769231,0
+9830,Bangkok,Thailand,Baranoa,Colombia,0.428571429,0.0,0
+2681,Shanghai,China,Sanya,China,0.5,1.0,0
+4355,Mexico City,Mexico,Tarlac City,Philippines,0.454545455,0.090909091,0
+3059,Seoul,South Korea,Serowe,Botswana,0.5,0.272727273,0
+7881,Manila,Philippines,Ban Pae,Thailand,0.428571429,0.272727273,0
+739,Jakarta,Indonesia,Takieta,Niger,0.571428571,0.111111111,0
+539,Cairo,Egypt,Taio,Brazil,0.6,0.0,0
+3326,New York,United States,Newtown,United Kingdom,0.5,0.5,0
+4240,Guangzhou,China,Huangyadong,China,0.454545455,1.0,0
+1401,Sao Paulo,Brazil,Sao Romao,Brazil,0.555555556,1.0,0
+4047,Karachi,Pakistan,Malancha,India,0.5,0.25,0
+5138,Shanghai,China,Shamsabad,India,0.444444444,0.2,0
+4230,Jakarta,Indonesia,Draksharama,India,0.454545455,0.555555556,0
+4192,Sao Paulo,Brazil,San Miguelito,Nicaragua,0.461538462,0.222222222,0
+9143,Kolkata,India,Kocani,Macedonia,0.428571429,0.333333333,0
+5539,Beijing,China,Wujiaying,China,0.444444444,1.0,0
+2693,Shanghai,China,Benghazi,Libya,0.5,0.2,0
+5341,Sao Paulo,Brazil,La Paz,Philippines,0.444444444,0.090909091,0
+9918,Bangkok,Thailand,Brandon,United States,0.428571429,0.076923077,0
+7671,Manila,Philippines,Maguing,Philippines,0.428571429,1.0,0
+9174,Kolkata,India,Polva,Estonia,0.428571429,0.285714286,0
+1808,Guangzhou,China,Shuyangzha,China,0.5,1.0,0
+5112,Shanghai,China,Paranavai,Brazil,0.444444444,0.0,0
+3990,Istanbul,Turkey,Islampur,India,0.5,0.0,0
+3456,Dhaka,Bangladesh,Shamva,Zimbabwe,0.5,0.1,0
+2908,Shanghai,China,Manga,Brazil,0.5,0.0,0
+6652,Jakarta,Indonesia,Boyarka,Russia,0.428571429,0.333333333,0
+8288,Cairo,Egypt,Zambrow,Poland,0.428571429,0.0,0
+6245,Tokyo,Japan,Toumodi,CÃ´te d'Ivoire,0.428571429,0.0,0
+2698,Shanghai,China,Soacha,Colombia,0.5,0.25,0
+4017,Istanbul,Turkey,Isabela,Puerto Rico,0.5,0.181818182,0
+4340,Sao Paulo,Brazil,Campo Largo,Argentina,0.454545455,0.222222222,0
+4646,Guangzhou,China,Zhongshu,China,0.444444444,1.0,0
+7740,Manila,Philippines,Sapulpa,United States,0.428571429,0.230769231,0
+7092,Jakarta,Indonesia,Kandra,India,0.428571429,0.555555556,0
+4693,Guangzhou,China,Guozhen,China,0.444444444,1.0,0
+1740,Jakarta,Indonesia,Jandaira,Brazil,0.5,0.111111111,0
+5407,Seoul,South Korea,Sao Paulo,Brazil,0.444444444,0.0,0
+4589,Jakarta,Indonesia,Vaikuntam,India,0.444444444,0.555555556,0
+3126,Cairo,Egypt,Harrow,United Kingdom,0.5,0.071428571,0
+2158,Manila,Philippines,Mahisi,India,0.5,0.090909091,0
+5334,Sao Paulo,Brazil,Kakraul,India,0.444444444,0.166666667,0
+8637,Dhaka,Bangladesh,Irshava,Ukraine,0.428571429,0.1,0
+1826,Mumbai,India,Maebashi,Japan,0.5,0.0,0
+4231,Jakarta,Indonesia,Pitkyaranta,Russia,0.454545455,0.333333333,0
+3488,Beijing,China,Beldanga,India,0.5,0.2,0
+9054,Kolkata,India,Bata,Equatorial Guinea,0.428571429,0.117647059,0
+9769,Bangkok,Thailand,Bargoed,United Kingdom,0.428571429,0.142857143,0
+3648,Shenzhen,China,Shuozhou,China,0.5,1.0,0
+5903,Karachi,Pakistan,Kussnacht,Switzerland,0.444444444,0.181818182,0
+6386,Jakarta,Indonesia,Jawhar,Somalia,0.428571429,0.333333333,0
+5639,Bangkok,Thailand,Bebington,United Kingdom,0.444444444,0.142857143,0
+6424,Jakarta,Indonesia,Guarda,Portugal,0.428571429,0.111111111,0
+7827,Manila,Philippines,Soalala,Madagascar,0.428571429,0.0,0
+7744,Manila,Philippines,Sanxing,Taiwan,0.428571429,0.181818182,0
+3013,Shanghai,China,Bingham,United Kingdom,0.5,0.142857143,0
+7672,Manila,Philippines,Shangpa,China,0.428571429,0.272727273,0
+9549,Kolkata,India,Baltara,India,0.428571429,1.0,0
+9978,Bangkok,Thailand,Benesov,Czechia,0.428571429,0.0,0
+3081,Seoul,South Korea,Stroud,United States,0.5,0.230769231,0
+3521,Beijing,China,Jennings,United States,0.5,0.153846154,0
+4979,Manila,Philippines,Balilihan,Philippines,0.444444444,1.0,0
+7620,Manila,Philippines,Menghan,China,0.428571429,0.272727273,0
+4348,Mexico City,Mexico,Kuwait City,Kuwait,0.454545455,0.0,0
+8441,Dhaka,Bangladesh,Chirala,India,0.428571429,0.2,0
+1347,Shanghai,China,Guangshui,China,0.555555556,1.0,0
+7088,Jakarta,Indonesia,Daita,India,0.428571429,0.555555556,0
+8948,Beijing,China,Herrin,United States,0.428571429,0.153846154,0
+5652,Bangkok,Thailand,Langedijk,Netherlands,0.444444444,0.454545455,0
+8082,Seoul,South Korea,Segorbe,Spain,0.428571429,0.090909091,0
+1792,Delhi,India,Destin,United States,0.5,0.230769231,0
+7429,Manila,Philippines,Katihar,India,0.428571429,0.090909091,0
+9580,Kolkata,India,Kolnur,India,0.428571429,1.0,0
+9960,Bangkok,Thailand,Bagahi,India,0.428571429,0.25,0
+2271,Manila,Philippines,Manassas,United States,0.5,0.230769231,0
+9767,Bangkok,Thailand,Makokou,Gabon,0.428571429,0.25,0
+2956,Shanghai,China,Pharaha,India,0.5,0.2,0
+3444,Dhaka,Bangladesh,Khaira,India,0.5,0.2,0
+7736,Manila,Philippines,Madamba,Philippines,0.428571429,1.0,0
+834,Manila,Philippines,Mabitac,Philippines,0.571428571,1.0,0
+6499,Jakarta,Indonesia,Ntara,Uganda,0.428571429,0.222222222,0
+2992,Shanghai,China,Sihanamaro,Madagascar,0.5,0.1,0
+7793,Manila,Philippines,Laconia,United States,0.428571429,0.230769231,0
+2151,Manila,Philippines,Mabole,Sri Lanka,0.5,0.181818182,0
+4023,Karachi,Pakistan,Varanasi,India,0.5,0.25,0
+7615,Manila,Philippines,Iwanuma,Japan,0.428571429,0.181818182,0
+6124,Bangalore,India,Kanal,Slovenia,0.444444444,0.25,0
+3339,Dhaka,Bangladesh,Dagana,Senegal,0.5,0.2,0
+4344,Sao Paulo,Brazil,San Ignacio,Costa Rica,0.454545455,0.2,0
+4464,Karachi,Pakistan,Baraclandia,Brazil,0.454545455,0.125,0
+2376,Manila,Philippines,Mekla,Algeria,0.5,0.181818182,0
+9044,Kolkata,India,Yola,Nigeria,0.428571429,0.285714286,0
+5571,Kolkata,India,Teluknaga,Indonesia,0.444444444,0.555555556,0
+8599,Dhaka,Bangladesh,Cahokia,United States,0.428571429,0.153846154,0
+8504,Dhaka,Bangladesh,Bhavani,India,0.428571429,0.2,0
+8880,Beijing,China,Deblin,Poland,0.428571429,0.166666667,0
+1887,Mumbai,India,Gubat,Philippines,0.5,0.090909091,0
+1198,Karachi,Pakistan,Haacht,Belgium,0.571428571,0.0,0
+6427,Jakarta,Indonesia,Cananea,Mexico,0.428571429,0.111111111,0
+8911,Beijing,China,Bijai,India,0.428571429,0.2,0
+2936,Shanghai,China,Dhanauri,India,0.5,0.2,0
+6342,Jakarta,Indonesia,Mbarara,Uganda,0.428571429,0.222222222,0
+1430,Bangkok,Thailand,Bangassou,Central African Republic,0.555555556,0.166666667,0
+6307,Jakarta,Indonesia,Cainta,Philippines,0.428571429,0.090909091,0
+3650,Shenzhen,China,Shuizhai,China,0.5,1.0,0
+1938,Mumbai,India,Duba,Saudi Arabia,0.5,0.25,0
+5172,Shanghai,China,Khandpara,India,0.444444444,0.2,0
+7764,Manila,Philippines,Lajinha,Brazil,0.428571429,0.090909091,0
+6393,Jakarta,Indonesia,Masaka,Uganda,0.428571429,0.222222222,0
+1154,Karachi,Pakistan,Kavali,India,0.571428571,0.25,0
+6250,Tokyo,Japan,Tongkou,China,0.428571429,0.0,0
+7037,Jakarta,Indonesia,Tarare,France,0.428571429,0.111111111,0
+4229,Jakarta,Indonesia,La Apartada,Colombia,0.454545455,0.333333333,0
+4975,Manila,Philippines,Mahaditra,Madagascar,0.444444444,0.0,0
+6401,Jakarta,Indonesia,Madaba,Jordan,0.428571429,0.111111111,0
+3640,Bangkok,Thailand,Tanakoub,Morocco,0.5,0.0,0
+3972,Lagos,Nigeria,Namsos,Norway,0.5,0.285714286,0
+9594,Kolkata,India,Solsona,Spain,0.428571429,0.2,0
+3376,Dhaka,Bangladesh,Kharar,India,0.5,0.2,0
+2487,Manila,Philippines,Mizil,Romania,0.5,0.090909091,0
+6954,Jakarta,Indonesia,Camapua,Brazil,0.428571429,0.111111111,0
+606,Lagos,Nigeria,Nagod,India,0.6,0.285714286,0
+7444,Manila,Philippines,Baliuag,Philippines,0.428571429,1.0,0
+5928,Karachi,Pakistan,Paratdiha,India,0.444444444,0.25,0
+2454,Manila,Philippines,Ambila,Madagascar,0.5,0.0,0
+3609,Bangkok,Thailand,Balakovo,Russia,0.5,0.125,0
+1484,Bangalore,India,Cuddalore,India,0.555555556,1.0,0
+4519,Jakarta,Indonesia,Razampeta,India,0.444444444,0.555555556,0
+3038,Sao Paulo,Brazil,San Raimundo,Guatemala,0.5,0.222222222,0
+9352,Kolkata,India,Mimata,Japan,0.428571429,0.0,0
+7692,Manila,Philippines,Paiania,Greece,0.428571429,0.090909091,0
+4116,Karachi,Pakistan,Paranhos,Brazil,0.5,0.125,0
+1427,Bangkok,Thailand,Bangalore,India,0.555555556,0.25,0
+497,Sao Paulo,Brazil,Sao Manuel,Brazil,0.6,1.0,0
+3353,Dhaka,Bangladesh,Oshakati,Namibia,0.5,0.1,0
+8794,Beijing,China,Xinqing,China,0.428571429,1.0,0
+759,Mumbai,India,Quibaxi,Angola,0.571428571,0.333333333,0
+838,Manila,Philippines,Fanipal,Belarus,0.571428571,0.181818182,0
+4327,Sao Paulo,Brazil,Datu Paglas,Philippines,0.454545455,0.090909091,0
+2128,Manila,Philippines,Mpanda,Tanzania,0.5,0.090909091,0
+1023,Kolkata,India,Kolaras,India,0.571428571,1.0,0
+8762,Beijing,China,Bentiu,South Sudan,0.428571429,0.181818182,0
+5614,Kolkata,India,Coldwater,United States,0.444444444,0.230769231,0
+5581,Kolkata,India,Wollaston,United Kingdom,0.444444444,0.214285714,0
+1058,Bangkok,Thailand,Jangaon,India,0.571428571,0.25,0
+9542,Kolkata,India,Goldach,Switzerland,0.428571429,0.090909091,0
+6856,Jakarta,Indonesia,Cajari,Brazil,0.428571429,0.111111111,0
+7349,Mumbai,India,Chumpak,China,0.428571429,0.2,0
+9045,Kolkata,India,Bologna,Italy,0.428571429,0.2,0
+2129,Manila,Philippines,Madaba,Jordan,0.5,0.090909091,0
+2767,Shanghai,China,Khangaon,India,0.5,0.2,0
+2109,Manila,Philippines,Tariba,Venezuela,0.5,0.0,0
+3617,Bangkok,Thailand,Changyon,North Korea,0.5,0.090909091,0
+1545,Mexico City,Mexico,Mexico,Philippines,0.545454545,0.090909091,0
+6914,Jakarta,Indonesia,Halwara,India,0.428571429,0.555555556,0
+1719,Jakarta,Indonesia,La Carlota,Spain,0.5,0.111111111,0
+7435,Manila,Philippines,Mallawi,Egypt,0.428571429,0.090909091,0
+7365,Mumbai,India,Gulbaar,Kyrgyzstan,0.428571429,0.1,0
+6235,Tokyo,Japan,Worksop,United Kingdom,0.428571429,0.071428571,0
+725,Jakarta,Indonesia,Jamhra,India,0.571428571,0.555555556,0
+6673,Jakarta,Indonesia,Satana,India,0.428571429,0.555555556,0
+8029,Seoul,South Korea,Simeulu,Indonesia,0.428571429,0.090909091,0
+5492,Dhaka,Bangladesh,Dhumnagar,India,0.444444444,0.2,0
+1128,Karachi,Pakistan,Kapakli,Turkey,0.571428571,0.0,0
+2957,Shanghai,China,Schongau,Germany,0.5,0.142857143,0
+5156,Shanghai,China,Chandauli,India,0.444444444,0.2,0
+4817,Guangzhou,China,Panazol,France,0.444444444,0.166666667,0
+6202,Bangalore,India,Punalur,India,0.444444444,1.0,0
+6224,Buenos Aires,Argentina,Buriti dos Lopes,Brazil,0.4375,0.222222222,0
+8686,Beijing,China,Serang,Indonesia,0.428571429,0.222222222,0
+7114,Jakarta,Indonesia,Hacari,Colombia,0.428571429,0.333333333,0
+5275,Sao Paulo,Brazil,Sanwal,Nepal,0.444444444,0.166666667,0
+8536,Dhaka,Bangladesh,Shalqar,Kazakhstan,0.428571429,0.1,0
+3044,Sao Paulo,Brazil,San Marcos,Honduras,0.5,0.0,0
+6912,Jakarta,Indonesia,Laterza,Italy,0.428571429,0.111111111,0
+150,Guangzhou,China,Jingzhou,China,0.666666667,1.0,0
+7574,Manila,Philippines,Manaure,Colombia,0.428571429,0.181818182,0
+4206,Mexico City,Mexico,Medeiros Neto,Brazil,0.461538462,0.0,0
+5493,Dhaka,Bangladesh,Whakatane,New Zealand,0.444444444,0.090909091,0
+2690,Shanghai,China,Zhongba,China,0.5,1.0,0
+4221,Bangalore,India,San Bartolome,Spain,0.461538462,0.2,0
+9102,Kolkata,India,Yozgat,Turkey,0.428571429,0.0,0
+842,Manila,Philippines,Manujan,Iran,0.571428571,0.090909091,0
+8137,Cairo,Egypt,Milagro,Ecuador,0.428571429,0.142857143,0
+6438,Jakarta,Indonesia,Simaria,India,0.428571429,0.555555556,0
+9700,Bangkok,Thailand,Banjar,Indonesia,0.428571429,0.0,0
+6200,Bangalore,India,Mangapet,India,0.444444444,1.0,0
+2795,Shanghai,China,Palghar,India,0.5,0.2,0
+7626,Manila,Philippines,Kalaiya,Nepal,0.428571429,0.090909091,0
+8475,Dhaka,Bangladesh,Mahamda,India,0.428571429,0.2,0
+7890,Manila,Philippines,Mareeba,Australia,0.428571429,0.090909091,0
+6608,Jakarta,Indonesia,Kasaoka,Japan,0.428571429,0.111111111,0
+9195,Kolkata,India,Ukhta,Russia,0.428571429,0.333333333,0
+8248,Cairo,Egypt,Kasimov,Russia,0.428571429,0.0,0
+1393,Sao Paulo,Brazil,Sonhauli,India,0.555555556,0.166666667,0
+1922,Mumbai,India,Mundi,India,0.5,1.0,0
+7019,Jakarta,Indonesia,Iacanga,Brazil,0.428571429,0.111111111,0
+3622,Bangkok,Thailand,Panglong,Myanmar,0.5,0.25,0
+4849,Mumbai,India,Sirumugai,India,0.444444444,1.0,0
+2292,Manila,Philippines,Sarkisla,Turkey,0.5,0.090909091,0
+2134,Manila,Philippines,Salima,Malawi,0.5,0.181818182,0
+551,Cairo,Egypt,Saire,Brazil,0.6,0.0,0
+1741,Jakarta,Indonesia,Ramgarha,India,0.5,0.555555556,0
+5290,Sao Paulo,Brazil,Barauli,India,0.444444444,0.166666667,0
+1818,Mumbai,India,Muscat,Oman,0.5,0.0,0
+4699,Guangzhou,China,Khangaon,India,0.444444444,0.2,0
+5182,Shanghai,China,Shamsabad,Iran,0.444444444,0.2,0
+3019,Shanghai,China,Jianshi,Taiwan,0.5,0.333333333,0
+18,Kolkata,India,Kolkata,India,1.0,1.0,1
+1771,Delhi,India,Reghin,Romania,0.5,0.285714286,0
+1889,Mumbai,India,Cuemba,Angola,0.5,0.333333333,0
+2153,Manila,Philippines,Contla,Mexico,0.5,0.090909091,0
+1643,Jakarta,Indonesia,Jayapura,Indonesia,0.5,1.0,0
+7847,Manila,Philippines,Melilli,Italy,0.428571429,0.090909091,0
+4194,Sao Paulo,Brazil,Sasso Marconi,Italy,0.461538462,0.166666667,0
+9433,Kolkata,India,Calceta,Ecuador,0.428571429,0.142857143,0
+8899,Beijing,China,Fuying,China,0.428571429,1.0,0
+534,Cairo,Egypt,Barro,Brazil,0.6,0.0,0
+133,Guangzhou,China,Yongzhou,China,0.666666667,1.0,0
+7723,Manila,Philippines,Karhula,Finland,0.428571429,0.181818182,0
+8459,Dhaka,Bangladesh,Karakax,China,0.428571429,0.1,0
+965,Beijing,China,Reading,United States,0.571428571,0.153846154,0
+8720,Beijing,China,Bontang,Indonesia,0.428571429,0.222222222,0
+6413,Jakarta,Indonesia,Zacapa,Guatemala,0.428571429,0.111111111,0
+8286,Cairo,Egypt,Pachino,Italy,0.428571429,0.0,0
+7854,Manila,Philippines,Gangelt,Germany,0.428571429,0.090909091,0
+1096,Bangkok,Thailand,Hanko,Finland,0.571428571,0.5,0
+6930,Jakarta,Indonesia,Sikat,India,0.428571429,0.555555556,0

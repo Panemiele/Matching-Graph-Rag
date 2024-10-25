@@ -1,0 +1,12 @@
+python-dotenv
+langchain
+langchain_community
+langchain_experimental
+langchain_groq
+scikit-learn
+torch==1.8.1
+torchtext==0.9.1
+deepmatcher
+tiktoken
+pypdf
+neo4j
